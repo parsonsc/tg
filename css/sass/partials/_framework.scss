@@ -67,12 +67,16 @@ video {
 h1,h2,h3,h4,h5, {
 	font-family: $title_font;
 }
+// Site cta
+a.site_cta {
+	@include site_cta;
+}
 
 .site_container {
 	position: relative;
 	width: 100%;
 	overflow: hidden;
-	height: 100%;
+	padding-bottom: 100px;
 	font-size: 14px;
 	font-family: $body_font;
 }
@@ -84,13 +88,6 @@ h1,h2,h3,h4,h5, {
 }
 
 // GENERIC SITE STYLES
-
-a.site_cta {
-	@include site_cta;
-}
-
-
-
 .breadcrumb {
 	padding: 10px 0;
 	overflow: hidden;
@@ -106,12 +103,61 @@ a.site_cta {
 }
 
 
+// main content
+.main_content {
+	padding: 20px 0;
+}
+.main_content section {
+	margin: 0 25px;
+	float: left;
+	display: block;
+	width: 550px;
+}
+.main_content section figure.product_img {
+	float: left;
+	width: 220px;
+	margin-right: 20px;
+}
+.main_content section article {
+	float: left;
+	width: 310px
+}
+
+// ACCORIDAN
+.main_content nav.accordion {
+	float: left;
+	width: 200px;
+	display: block;
+}
+.main_content nav.accordion ul li {
+	display: block;
+	width: 100%;	
+	text-align: center;
+	background: $dark_grey;
+	border-bottom: 1px solid $white;
+}
+.main_content nav.accordion ul li a {
+	color: $white;
+	display: block;
+	padding: 10px 0;
+}
+.main_content nav.accordion ul li ul {
+	display: none;
+}
+.main_content nav.accordion ul li ul li {
+	background: $light_grey;
+	border-bottom: 0;
+	text-indent: 20px;
+}
+
+
+
 // ASIDE BASKET SIDEBAR
 aside.product_details {
 	background: $light_grey;
 	padding: 15px;
 	overflow: hidden;
-	width: 250px;
+	width: 200px;
 	float: right;
 }
 aside.product_details a.site_cta {
@@ -129,6 +175,9 @@ aside.product_details ul li {
 	display: block;
 	width: 100%;
 	padding: 10px 0;
+}
+aside.product_details ul li span {
+	font-family: $title_font;
 }
 
 // TABLET STYLES
@@ -148,5 +197,12 @@ aside.product_details ul li {
 		min-width: 96%;
 		padding: 0 2%;
 	}	
+
+	// ASIDE BASKET SIDEBAR
+	aside.product_details {
+		padding: 15px 2%;
+		width: 96%;
+		float: none;
+	}
 
 }

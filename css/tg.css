@@ -5765,22 +5765,6 @@ h1, h2, h3, h4, h5 {
   font-family: "Brandon Text bold", arial, sans-serif;
 }
 
-.site_container {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  height: 100%;
-  font-size: 14px;
-  font-family: "Brandon Text Medium", arial, sans-serif;
-}
-
-.inner_content {
-  width: 100%;
-  max-width: 1020px;
-  min-width: 960px;
-  margin: 0 auto;
-}
-
 a.site_cta {
   background: #ef445f;
   -moz-transition: all 0.2s;
@@ -5802,6 +5786,22 @@ a.site_cta:hover {
   color: #ef445f;
 }
 
+.site_container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-bottom: 100px;
+  font-size: 14px;
+  font-family: "Brandon Text Medium", arial, sans-serif;
+}
+
+.inner_content {
+  width: 100%;
+  max-width: 1020px;
+  min-width: 960px;
+  margin: 0 auto;
+}
+
 .breadcrumb {
   padding: 10px 0;
   overflow: hidden;
@@ -5819,11 +5819,63 @@ a.site_cta:hover {
   color: #cccccc;
 }
 
+.main_content {
+  padding: 20px 0;
+}
+
+.main_content section {
+  margin: 0 25px;
+  float: left;
+  display: block;
+  width: 550px;
+}
+
+.main_content section figure.product_img {
+  float: left;
+  width: 220px;
+  margin-right: 20px;
+}
+
+.main_content section article {
+  float: left;
+  width: 310px;
+}
+
+.main_content nav.accordion {
+  float: left;
+  width: 200px;
+  display: block;
+}
+
+.main_content nav.accordion ul li {
+  display: block;
+  width: 100%;
+  text-align: center;
+  background: #cccccc;
+  border-bottom: 1px solid #ffffff;
+}
+
+.main_content nav.accordion ul li a {
+  color: #ffffff;
+  display: block;
+  padding: 10px 0;
+}
+
+.main_content nav.accordion ul li ul {
+  display: none;
+}
+
+.main_content nav.accordion ul li ul li {
+  background: #cccccc;
+  border-bottom: 0;
+  text-indent: 20px;
+}
+
 aside.product_details {
   background: #cccccc;
   padding: 15px;
   overflow: hidden;
-  width: 250px;
+  width: 200px;
   float: right;
 }
 
@@ -5846,6 +5898,10 @@ aside.product_details ul li {
   padding: 10px 0;
 }
 
+aside.product_details ul li span {
+  font-family: "Brandon Text bold", arial, sans-serif;
+}
+
 @media only screen and (min-width: 601px) and (max-width: 800px) {
   .inner_content {
     max-width: 96%;
@@ -5858,6 +5914,12 @@ aside.product_details ul li {
     max-width: 96%;
     min-width: 96%;
     padding: 0 2%;
+  }
+
+  aside.product_details {
+    padding: 15px 2%;
+    width: 96%;
+    float: none;
   }
 }
 header.site_header .inner_content {
