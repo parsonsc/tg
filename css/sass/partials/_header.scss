@@ -1,14 +1,23 @@
 // HEADER
 
 header.site_header {	
-	overflow: hidden;
-	padding: 20px 0;
+	
 }
 header.site_header .inner_content {
 	border-bottom: 1px solid $pink;
+	padding: 20px 0;
+	overflow: hidden;	
 }
 
+// Site logo
+header.site_header .logo {
+	float: left;
+}
 
+// Searchbar
+header.site_header .searchbar {
+	float: right;
+}
 
 
 // TABLET STYLES
@@ -19,5 +28,7 @@ header.site_header .inner_content {
 // MOBILE SYLES
 @include respond-to(mobile) {
 
-	
+	header.site_header .inner_content {
+		padding: 10px 0;
+	}
 }

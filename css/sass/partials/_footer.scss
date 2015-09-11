@@ -1,5 +1,16 @@
+// FOOTER STYLES
+
+.site_footer {	
+	overflow: hidden;
+	clear: both;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
 .site_footer .inner_content {
-	border-top: 1px solid $grey;
+	border-top: 1px solid $light_grey;
+	padding: 20px 0;
 }
 .site_footer nav ul li {
 	display: inline-block;
@@ -10,7 +21,7 @@
 
 }
 .site_footer nav ul li a {
-	color: $grey;
+	color: $light_grey;
 	display: block;
 }
 
@@ -22,5 +33,7 @@
 
 // MOBILE SYLES
 @include respond-to(mobile) {
-	
+	.site_footer .inner_content {
+		padding: 10px 0;
+	}
 }
