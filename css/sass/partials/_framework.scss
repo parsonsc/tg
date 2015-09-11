@@ -1,0 +1,103 @@
+// FRAMEWORK
+
+.clear {
+	clear: both;
+	overflow: hidden;
+	float: none;
+}
+.tablet,
+.show_mobile {display: none;}
+.desktop,
+.show_desktop {display: block;}
+
+html,
+body {
+	margin: 0;
+  	padding: 0;
+  	height: 100%;
+}
+body {
+	// padding-bottom: 410px;
+}
+a {
+	text-decoration: none;
+	outline: 0;
+}
+a:hover, a:active, a:focus {
+	outline: 0;
+}
+ol,
+ul {
+ 	padding: 0;
+ 	margin: 0;
+} 
+img {
+	display: block;
+}
+iframe,
+img {
+	max-width: 100%;
+	display: block;
+}
+blockquote {
+	margin: 0
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
+audio,
+canvas,
+progress,
+video {
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+.site_container {
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	height: 100%;
+}
+.inner_content {
+	width: 100%;
+	max-width: 1020px;
+	min-width: 960px;
+	margin: 0 auto;
+}
+
+// GENERIC SITE STYLES
+
+
+
+// TABLET STYLES
+@include respond-to(tablet) {
+	.inner_content {
+		max-width: 96%;
+		min-width: 96%;
+		padding: 0 2%;
+	}	
+}
+
+
+// MOBILE STYLES
+@include respond-to(mobile) {
+	.inner_content {
+		max-width: 96%;
+		min-width: 96%;
+		padding: 0 2%;
+	}	
+
+}

@@ -1,0 +1,23 @@
+// HEADER
+
+header.site_header {	
+	overflow: hidden;
+	padding: 20px 0;
+}
+header.site_header .inner_content {
+	border-bottom: 1px solid $pink;
+}
+
+
+
+
+// TABLET STYLES
+@include respond-to(tablet) {
+	
+}
+
+// MOBILE SYLES
+@include respond-to(mobile) {
+
+	
+}

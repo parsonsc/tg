@@ -1,0 +1,1717 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"ho",
+				"red_hover"
+			],
+			[
+				"border",
+				"border-spacing"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"beige",
+				"beige_block"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"ab",
+				"ab_img"
+			],
+			[
+				"site_",
+				"site_cta"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"dar",
+				"dark_green"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"new",
+				"news_grid"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"border-ra",
+				"border-top-right-radius"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"drop",
+				"drop_column"
+			],
+			[
+				"dro",
+				"drop_down_nav"
+			],
+			[
+				"header",
+				"header_subnav"
+			],
+			[
+				"nav",
+				"nav"
+			],
+			[
+				"cel",
+				"cellspacing	Attr"
+			],
+			[
+				"li",
+				"lis	list-style"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tha",
+				"thanks_header"
+			],
+			[
+				"footer",
+				"footer_subnav"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"slider_to",
+				"slider_total_box"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"si",
+				"site_cta"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border-rad",
+				"border-top-left-radius"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"card",
+				"card-options"
+			],
+			[
+				"are",
+				"are_you_content"
+			],
+			[
+				"str",
+				"stories_carousel"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"s",
+				"story_content"
+			],
+			[
+				"res",
+				"resource_article"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"toggle",
+				"toggle_label"
+			],
+			[
+				"bx-",
+				"bx-viewport"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"twitter",
+				"twitter_feed"
+			],
+			[
+				"soc",
+				"social_row"
+			],
+			[
+				"mor",
+				"more_stories"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"backgron",
+				"background-size"
+			],
+			[
+				"loc",
+				"location_list"
+			],
+			[
+				"ca",
+				"carousel"
+			],
+			[
+				"ra",
+				"read_more_cta"
+			],
+			[
+				"read",
+				"read_more_cta"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"reg",
+				"Register"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"main",
+				"main_content"
+			],
+			[
+				"than",
+				"thankYou"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1065,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/sass/tg.scss",
+			"settings":
+			{
+				"buffer_size": 241,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/sass/mixins/_colour_palette.scss",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/sass/mixins/_mixins.scss",
+			"settings":
+			{
+				"buffer_size": 1056,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/sass/partials/_fonts.scss",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/sass/partials/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 343,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/sass/partials/_framework.scss",
+			"settings":
+			{
+				"buffer_size": 1146,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 34,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/rvs.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/config.rb",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/js/main.js",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/footer.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/post-formats/format-aside.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/rvsregister/smarty/templates/thanks.html",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_thanks.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_framework.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/page-templates/about.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/email/rvs_email.html",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/rvsregister/email/thanks_page.html",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/rvs.css",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/rvsregister/smarty/templates/register.html",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/header.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/smarty/templates/thanks.html",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/page-templates/notitle.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/page-templates/notitle2.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_header.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_about.scss",
+		"/C/xampp/htdocs/doe/flats/css/sass/partials/_footer.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_footer.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/page-templates/home.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/templates/footer_box.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_forms.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/post-formats/format-quote.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/fonts/FontAwesome.otf",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/keyring/includes/oauth-php/tests/Mock_OAuthSignatureMethod_RSA_SHA1.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/ApiClients/Model/StoryUpdateRequest.php",
+		"/C/xampp/htdocs/rvs/wp-content/languages/themes/twentyfifteen-en_GB.mo",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/rutr-users/front-end/rutr.recover.password.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_slideshow.scss",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/second-column.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/mixins/_mixins.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/page-templates/about.html",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_animate.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_font_awesome.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_fonts.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_hp.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_tabs.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_normalize.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_register.scss",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/sidebar-copyright.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/sidebar.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/rutr-profile/functions/options.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/package.json",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/akismet/akismet.php",
+		"/C/xampp/htdocs/rvs/flats/index.html",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/templates/ticket_box.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/ApiClients/ClientBase.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/homepage/homepage.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/mixins/_colour_palette.scss",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/tests/responses/list_details.json",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/samples/get_billing_details.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/js/color-scheme-control.js",
+		"/C/xampp/htdocs/rvs/flats/email/rvs_email.html",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/smarty/templates/thanks-captain.html",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/library/core.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/tweets-into-posts-table/twitteroauth/phpunit.xml",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/samples/external_session_url.php",
+		"/C/xampp/htdocs/rvs/flats/css/sass/partials/_slideshow.scss",
+		"/C/Users/cparsons/AppData/Local/Temp/wzb55d/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
+		"/C/Users/cparsons/AppData/Local/Temp/wzd30a/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/samples/list/update.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/internals/core.smarty_include_php.php",
+		"/C/Users/cparsons/AppData/Local/Temp/wzd126/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
+		"/C/Users/cparsons/AppData/Local/Temp/wz8eaa/MyFontsWebfontsKit/StartHere.html",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/rvsregister/front-end/rvs.thanks.php",
+		"/C/Users/cparsons/AppData/Local/Temp/wzc8cd/MyFontsWebfontsKit/StartHere.html",
+		"/C/Users/cparsons/AppData/Local/Temp/wz01d6/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/tests/responses/bounced_subscribers.json",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/analyticstracking.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/includes/templates/vendor/handlebars/handlebars-source.gemspec",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/ie8-and-down.css",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/content-link.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/includes/templates/vendor/marionette/license.txt",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/rutr-profile/premium/addons/email.customizer.txt",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/index.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/ie.css",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/header.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfourteen/header.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentythirteen/header.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/css/ie.css",
+		"/C/xampp/htdocs/rvs/wp-content/index.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/rutr-profile/functions/basic.info.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/includes/templates/vendor/handlebars/handlebars.js",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/tests/responses/oauth_exchange_token.json",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/includes/templates/vendor/handlebars/README.md",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/rutr-profile/emails/signup.html",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/internals/core.assign_smarty_interface.php",
+		"/C/Users/cparsons/Desktop/projects/diamonds/index.html",
+		"/C/Users/cparsons/Desktop/projects/diamonds/css/main.css",
+		"/C/Users/cparsons/Desktop/projects/diamonds/stylesheets/screen.css",
+		"/C/Users/cparsons/Desktop/projects/diamonds/css/config.rb",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/modernizr/modernizr.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/inc/custom-header.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/templates/header_box.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/footer.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfourteen/footer.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentythirteen/footer.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfourteen/sidebar-footer.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/includes/templates/vendor/marionette/api/helpers.jsdoc",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/internals/core.load_plugins.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/homepage/homepage.css",
+		"/C/xampp/htdocs/rvs/flats/about.html",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/keyring/token.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/author-bio.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/includes/lib/class-eventbrite-integration-taxonomy.php",
+		"/C/xampp/htdocs/DoE/flats/css/sass/partials/_framework.scss",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/ApiClients/TeamApi.php",
+		"/C/xampp/htdocs/h2only/wp-content/plugins/justgiving/smarty/templates/thanks-captain.html",
+		"/C/xampp/htdocs/rvs/wp-content/languages/admin-network-en_GB.mo",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/samples/authentication/auth_with_oauth.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/mimePart.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/index.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/page-templates/thanks.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfourteen/inc/custom-header.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentythirteen/inc/custom-header.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/rvsregister/js/rvs.js",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/readme.txt",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/content-none.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/tests/responses/campaign_opens.json",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/cm.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/assets/js/frontend.js",
+		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfourteen/js/slider.js",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/rvsregister/front-end/rvs.register.php",
+		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/post-formats/format.php",
+		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/plugins/function.html_options.php"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n	",
+			"color@",
+			"cooki",
+			"#cookieWarningContainer a",
+			"footer.site_footer nav.footer_nav ul li",
+			"\nCreate tickets with EventBrite",
+			"register",
+			".about_articles article",
+			".social_nav ul li",
+			"social_nav",
+			"block01",
+			".register .main_content nav.tabs_nav ul li.menu-item-128",
+			"eventdate",
+			"menu-",
+			".main_content nav.tabs_nav ul li",
+			"15px",
+			"1p",
+			"class=\"green_cta\" ",
+			"<a href=\"#\" class=\"green_cta\" style=\"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#719f87;",
+			"green_cta",
+			"719f87",
+			"green_cta",
+			"date",
+			"a.green_cta",
+			"section.social_bar",
+			".main_content nav.tabs_nav ul li",
+			"terms ",
+			"#cookieWarningContainer {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 92%;\n    z-index: 9999;\n    background: #719f87;\n    padding: 10px 4%;\n    text-align: center;\n    color: #fff;\n}",
+			"about_articles",
+			".user-forms .form-item.customCheckbox p",
+			"video",
+			".video",
+			".inner_content .video",
+			"sell",
+			"tickets",
+			"sell",
+			"section.social_bar .inner_content",
+			".user-forms .form-item select",
+			"367152",
+			".terms span.error",
+			"}\n",
+			"20",
+			".news ul.news_grid li p",
+			"background-repeat: no-repeat;\n	background-size: 100%;",
+			"<img src=\"images/slide_01.jpg\" alt=\"Case study\" class=\"\" width=\"100%\" />",
+			"jpg",
+			"slideshow",
+			"ul",
+			"max-wid",
+			"518067",
+			"webfonts/",
+			".beige_block",
+			".about_articles article img",
+			".news ul.news_grid",
+			".beige_block",
+			"about_page",
+			"user-forms .form-item ",
+			"hashtag_man",
+			".about_articles article",
+			".main_content section .inner_content",
+			"thanks_articles",
+			"social",
+			"social_share",
+			"50px",
+			".ourChoirHasThePowErrrrrr .campaign_header article",
+			"ourChoirHasThePowErrrrrr",
+			".campaign_header article",
+			"dfdbd6",
+			".main_content section .inner_content",
+			".help ul.news_ul",
+			".help ul.news_ul li img",
+			"@",
+			".help ul.news_ul li img	",
+			"@",
+			".help ul.news_ul li img	",
+			"/*!",
+			".help ul.news_ul li img",
+			".help ul.news_ul li img	",
+			"	.help ul.news_ul li img {\n		float: left;\n		padding-right: 5%;\n		padding-bottom: 30px;\n	}	",
+			".help ul.news_ul li img	",
+			"	.help ul.news_ul li img {\n		float: left;\n		padding-right: 5%;\n		padding-bottom: 30px;\n	}	",
+			".help ul.news_ul li img",
+			"news_ul",
+			".sign_up_banner",
+			"red",
+			".error",
+			".main_content section .inner_content",
+			".main_content nav.tabs_nav ul",
+			".help ul.news_ul li",
+			".help ul.news_ul",
+			".about_page",
+			"about_page",
+			"thanks_articles",
+			".help ul.news_ul li img",
+			"images/",
+			"img",
+			";\n",
+			"1",
+			"ourChoirHasThePowErrrrrr",
+			"10px",
+			";\n",
+			"d1d1d1",
+			".campaign_header article",
+			"5",
+			"dancing_man",
+			"dancing",
+			".tabs-smaller .ui-tabs-nav li",
+			".tabs-smaller .ui-tabs-nav li ",
+			"606060",
+			"518067",
+			".slideshow ul li article a",
+			".slideshow ul li article a]",
+			".slideshow ul li article a",
+			"singe",
+			".help ul.news_ul li",
+			"text-pad-left",
+			"</h1>   ",
+			"<h1>",
+			"underline",
+			"width=\"50\"",
+			"   <td",
+			"<h1><img src=\"images/share.jpg\" alt=\"\" width=\"100%\" /></h1>             ",
+			"text-pad-left",
+			">\n",
+			"td.wrapper",
+			"left-text-pad",
+			"table.columns td",
+			"53"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								726,
+								737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/sass/tg.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								238
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/sass/mixins/_colour_palette.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/sass/mixins/_mixins.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1055,
+								1055
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/sass/partials/_fonts.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/sass/partials/_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/sass/partials/_framework.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								893,
+								893
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 738.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "tg.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"head",
+				"css\\sass\\partials\\_header.scss"
+			],
+			[
+				"colo",
+				"themes\\rvs\\css\\sass\\mixins\\_colour_palette.scss"
+			],
+			[
+				"mixi",
+				"themes\\rvs\\css\\sass\\mixins\\_mixins.scss"
+			],
+			[
+				"framr",
+				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
+			],
+			[
+				"fram",
+				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
+			],
+			[
+				"than",
+				"themes\\rvs\\css\\sass\\partials\\_thanks.scss"
+			],
+			[
+				"header.scs",
+				"themes\\rvs\\css\\sass\\partials\\_header.scss"
+			],
+			[
+				"footer",
+				"themes\\rvs\\css\\sass\\partials\\_footer.scss"
+			],
+			[
+				"foot",
+				"css\\sass\\partials\\_footer.scss"
+			],
+			[
+				"abou",
+				"themes\\rvs\\css\\sass\\partials\\_about.scss"
+			],
+			[
+				"forms.scs",
+				"themes\\rvs\\css\\sass\\partials\\_forms.scss"
+			],
+			[
+				"footer.sc",
+				"themes\\rvs\\css\\sass\\partials\\_footer.scss"
+			],
+			[
+				"main.js",
+				"themes\\rvs\\js\\main.js"
+			],
+			[
+				"frame",
+				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
+			],
+			[
+				"about.scs",
+				"themes\\rvs\\css\\sass\\partials\\_about.scss"
+			],
+			[
+				"slidesh",
+				"themes\\rvs\\css\\sass\\partials\\_slideshow.scss"
+			],
+			[
+				"register",
+				"themes\\rvs\\css\\sass\\partials\\_register.scss"
+			],
+			[
+				"tabs",
+				"themes\\rvs\\css\\sass\\partials\\_tabs.scss"
+			],
+			[
+				"rvs.css",
+				"themes\\rvs\\css\\rvs.css"
+			],
+			[
+				"footer.p",
+				"themes\\rvs\\footer.php"
+			],
+			[
+				"thanks",
+				"themes\\rvs\\css\\sass\\partials\\_thanks.scss"
+			],
+			[
+				"tabs.s",
+				"themes\\rvs\\css\\sass\\partials\\_tabs.scss"
+			],
+			[
+				"footer.sscs",
+				"themes\\rvs\\css\\sass\\partials\\_footer.scss"
+			],
+			[
+				"forms",
+				"themes\\rvs\\css\\sass\\partials\\_forms.scss"
+			],
+			[
+				"about.p",
+				"themes\\rvs\\page-templates\\about.php"
+			],
+			[
+				"header",
+				"themes\\rvs\\header.php"
+			],
+			[
+				"hp",
+				"themes\\rvs\\css\\sass\\partials\\_hp.scss"
+			],
+			[
+				"about",
+				"themes\\rvs\\css\\sass\\partials\\_about.scss"
+			],
+			[
+				"framre",
+				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
+			],
+			[
+				"footer.scs",
+				"themes\\rvs\\css\\sass\\partials\\_footer.scss"
+			],
+			[
+				"thanks.scs",
+				"themes\\rvs\\css\\sass\\partials\\_thanks.scss"
+			],
+			[
+				"register.scs",
+				"themes\\rvs\\css\\sass\\partials\\_register.scss"
+			],
+			[
+				"slideshow",
+				"themes\\rvs\\css\\sass\\partials\\_slideshow.scss"
+			],
+			[
+				"colour",
+				"themes\\rvs\\css\\sass\\mixins\\_colour_palette.scss"
+			],
+			[
+				"mix",
+				"themes\\rvs\\css\\sass\\mixins\\_mixins.scss"
+			],
+			[
+				"header.php",
+				"themes\\rvs\\header.php"
+			],
+			[
+				"hp.scs",
+				"themes\\rvs\\css\\sass\\partials\\_hp.scss"
+			],
+			[
+				"fr",
+				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
+			],
+			[
+				"abou.s",
+				"themes\\rvs\\css\\sass\\partials\\_about.scss"
+			],
+			[
+				"slides",
+				"themes\\rvs\\css\\sass\\partials\\_slideshow.scss"
+			],
+			[
+				"home.p",
+				"themes\\rvs\\page-templates\\home.php"
+			],
+			[
+				"h",
+				"themes\\rvs\\page-templates\\home.php"
+			],
+			[
+				"fra",
+				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
+			],
+			[
+				"rvs.scs",
+				"themes\\rvs\\css\\sass\\rvs.scss"
+			],
+			[
+				"about.s",
+				"themes\\rvs\\css\\sass\\partials\\_about.scss"
+			],
+			[
+				"header.p",
+				"themes\\rvs\\header.php"
+			],
+			[
+				"thanks.cs",
+				"themes\\rvs\\css\\sass\\partials\\_thanks.scss"
+			],
+			[
+				"forms.sc",
+				"themes\\rvs\\css\\sass\\partials\\_forms.scss"
+			],
+			[
+				"slide",
+				"themes\\rvs\\css\\sass\\partials\\_slideshow.scss"
+			],
+			[
+				"thanks.c",
+				"themes\\rvs\\css\\sass\\partials\\_thanks.scss"
+			],
+			[
+				"thanks.htm",
+				"plugins\\eventbritedg\\smarty\\templates\\thanks.html"
+			],
+			[
+				"form",
+				"themes\\rvs\\css\\sass\\partials\\_forms.scss"
+			],
+			[
+				"thanks.ht",
+				"plugins\\eventbritedg\\smarty\\templates\\thanks.html"
+			],
+			[
+				"home.php",
+				"themes\\rvs\\page-templates\\home.php"
+			],
+			[
+				"header.sc",
+				"themes\\rvs\\css\\sass\\partials\\_header.scss"
+			],
+			[
+				"colou",
+				"themes\\rvs\\css\\sass\\mixins\\_colour_palette.scss"
+			],
+			[
+				"regis",
+				"themes\\rvs\\css\\sass\\partials\\_register.scss"
+			],
+			[
+				"header.s",
+				"themes\\rvs\\css\\sass\\partials\\_header.scss"
+			],
+			[
+				"home",
+				"themes\\rvs\\page-templates\\home.php"
+			],
+			[
+				"thank",
+				"plugins\\eventbritedg\\smarty\\templates\\thanks.html"
+			],
+			[
+				"abous",
+				"themes\\rvs\\css\\sass\\partials\\_about.scss"
+			],
+			[
+				"confi",
+				"themes\\rvs\\css\\config.rb"
+			],
+			[
+				"frames",
+				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
+			],
+			[
+				"wp-content/themes/css/sas",
+				"wp-content\\themes\\rvs\\css\\sass\\rvs.scss"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"main",
+				"js\\main.js"
+			],
+			[
+				"sli",
+				"css\\sass\\partials\\_slideshow.scss"
+			],
+			[
+				"tb",
+				"css\\sass\\partials\\_tabs.scss"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"rvs",
+				"email\\rvs_email.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"rvs_em",
+				"email\\rvs_email.html"
+			],
+			[
+				"rvs.s",
+				"css\\sass\\rvs.scss"
+			],
+			[
+				"frm",
+				"css\\sass\\partials\\_framework.scss"
+			],
+			[
+				"hea",
+				"css\\sass\\partials\\_header.scss"
+			],
+			[
+				"events.scs",
+				"flats\\css\\sass\\partials\\_events.scss"
+			],
+			[
+				"block",
+				"flats\\css\\sass\\partials\\_block_grid.scss"
+			],
+			[
+				"blocks",
+				"flats\\sections\\blocks.php"
+			],
+			[
+				"faq",
+				"flats\\css\\sass\\partials\\_faq.scss"
+			],
+			[
+				"faqs",
+				"flats\\sections\\faq_content.php"
+			],
+			[
+				"esn.s",
+				"flats\\css\\sass\\esn.scss"
+			],
+			[
+				"esn.scs",
+				"flats\\css\\sass\\esn.scss"
+			],
+			[
+				"conta",
+				"flats\\css\\sass\\partials\\_content_page.scss"
+			],
+			[
+				"slideshw",
+				"flats\\css\\sass\\partials\\_slideshow.scss"
+			],
+			[
+				"index",
+				"flats\\index.php"
+			],
+			[
+				"car",
+				"flats\\sections\\carousel.php"
+			],
+			[
+				"footer.",
+				"flats\\sections\\footer.php"
+			],
+			[
+				"slideh",
+				"flats\\css\\sass\\partials\\_slideshow.scss"
+			],
+			[
+				"bloc",
+				"flats\\css\\sass\\partials\\_block_grid.scss"
+			],
+			[
+				"header.",
+				"flats\\sections\\header.php"
+			],
+			[
+				"color",
+				"flats\\css\\sass\\mixins\\_colour_palette.scss"
+			],
+			[
+				"for",
+				"flats\\css\\sass\\partials\\_forms.scss"
+			],
+			[
+				"geneti",
+				"flats\\sections\\generic_content.php"
+			],
+			[
+				"bread",
+				"flats\\css\\sass\\partials\\_breadcrumb.scss"
+			],
+			[
+				"hero",
+				"flats\\css\\sass\\partials\\_hero_banner.scss"
+			],
+			[
+				"her",
+				"flats\\css\\sass\\partials\\_hero_banner.scss"
+			],
+			[
+				"heor",
+				"flats\\sections\\hero_banner.php"
+			],
+			[
+				"grid",
+				"flats\\css\\sass\\partials\\_block_grid.scss"
+			],
+			[
+				"blocks.p",
+				"flats\\sections\\blocks.php"
+			],
+			[
+				"hero_",
+				"flats\\sections\\hero_banner.php"
+			],
+			[
+				"social",
+				"flats\\css\\sass\\partials\\_social_feed.scss"
+			],
+			[
+				"framewor",
+				"flats\\css\\sass\\partials\\_framework.scss"
+			],
+			[
+				"footre",
+				"flats\\sections\\footer.php"
+			],
+			[
+				"norm",
+				"flats\\css\\sass\\partials\\_normalize.scss"
+			],
+			[
+				"contact.sc",
+				"wp-content\\themes\\ga\\css\\sass\\partials\\_contact.scss"
+			],
+			[
+				"master.",
+				"C:\\xampp\\htdocs\\egan\\wp-content\\themes\\ga\\css\\sass\\master.scss"
+			],
+			[
+				"hp_",
+				"wp-content\\themes\\h2only\\page-templates\\parts\\hp_header.php"
+			],
+			[
+				"hp_head",
+				"wp-content\\themes\\h2only\\page-templates\\parts\\hp_header.php"
+			],
+			[
+				"top_gr",
+				"wp-content\\themes\\h2only\\css\\sass\\partials\\_content_grid.scss"
+			],
+			[
+				"thank-",
+				"wp-content\\themes\\h2only\\tmpl\\thanks-page.php"
+			],
+			[
+				"hp_header",
+				"wp-content\\themes\\h2only\\page-templates\\parts\\hp_header.php"
+			],
+			[
+				"thank.sc",
+				"wp-content\\themes\\h2only\\css\\sass\\partials\\_thank_you.scss"
+			],
+			[
+				"forms.s",
+				"wp-content\\themes\\h2only\\css\\sass\\partials\\_forms.scss"
+			],
+			[
+				"h2on",
+				"wp-content\\themes\\h2only\\css\\sass\\h2only.scss"
+			],
+			[
+				"slider",
+				"wp-content\\themes\\h2only\\css\\sass\\partials\\_cost_slider.scss"
+			],
+			[
+				"top_grid",
+				"back_up\\wp-content\\themes\\h2only_2015\\css\\sass\\partials\\_top_grid.scss"
+			],
+			[
+				"top",
+				"back_up\\wp-content\\themes\\h2only_2015\\css\\sass\\partials\\_top_grid.scss"
+			],
+			[
+				"sign_up_header.scs",
+				"wp-content\\themes\\h2only\\css\\sass\\partials\\_sign_up_header.scss"
+			],
+			[
+				"intro",
+				"wp-content\\themes\\h2only\\css\\sass\\partials\\_intro_banner.scss"
+			],
+			[
+				"header.scss",
+				"wp-content\\themes\\h2only\\css\\sass\\partials\\_header.scss"
+			],
+			[
+				"h2only.css",
+				"wp-content\\themes\\h2only\\css\\h2only.css"
+			],
+			[
+				"slider.sc",
+				"wp-content\\themes\\h2only\\css\\sass\\partials\\_cost_slider.scss"
+			],
+			[
+				"hp_hea",
+				"wp-content\\themes\\h2only\\page-templates\\parts\\hp_header.php"
+			],
+			[
+				"create",
+				"wp-content\\themes\\h2only\\css\\sass\\partials\\_create.scss"
+			],
+			[
+				"register.sc",
+				"wp-content\\themes\\h2only\\css\\sass\\partials\\_register.scss"
+			],
+			[
+				"_than",
+				"wp-content\\themes\\h2only\\css\\sass\\partials\\_thank_you.scss"
+			],
+			[
+				"thanks.sc",
+				"wp-content\\themes\\h2only\\css\\.sass-cache\\1d3b875729466a758788e85fb7d99a28684faba2\\_thank_you.scssc"
+			],
+			[
+				"create.scs",
+				"wp-content\\themes\\h2only\\css\\sass\\partials\\_create.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"doe",
+				"C:\\xampp\\htdocs\\sublime\\dofe.sublime-project"
+			],
+			[
+				"dioe",
+				"C:\\xampp\\htdocs\\sublime\\dofe.sublime-project"
+			],
+			[
+				"r",
+				"C:\\xampp\\htdocs\\rvs\\wp-content\\themes\\rvs\\css\\sass\\partials\\rvs_wp.sublime-project"
+			],
+			[
+				"esn",
+				"C:\\xampp\\htdocs\\sublime\\esn.sublime-project"
+			],
+			[
+				"pres",
+				"C:\\xampp\\htdocs\\sublime\\presentations.sublime-project"
+			],
+			[
+				"presn",
+				"C:\\xampp\\htdocs\\sublime\\presentations.sublime-project"
+			],
+			[
+				"prentios",
+				"C:\\xampp\\htdocs\\sublime\\prentis.sublime-project"
+			],
+			[
+				"present",
+				"C:\\xampp\\htdocs\\sublime\\presentations.sublime-project"
+			],
+			[
+				"pretn",
+				"C:\\xampp\\htdocs\\sublime\\prentis.sublime-project"
+			],
+			[
+				"green",
+				"C:\\xampp\\htdocs\\sublime\\greenleaves.sublime-project"
+			],
+			[
+				"prentis",
+				"C:\\xampp\\htdocs\\sublime\\prentis.sublime-project"
+			],
+			[
+				"rvs",
+				"C:\\xampp\\htdocs\\sublime\\rvs.sublime-project"
+			],
+			[
+				"three",
+				"C:\\xampp\\htdocs\\sublime\\three_good.sublime-project"
+			],
+			[
+				"lbe",
+				"C:\\xampp\\htdocs\\sublime\\bv.sublime-project"
+			],
+			[
+				"thre",
+				"C:\\xampp\\htdocs\\sublime\\three_good.sublime-project"
+			],
+			[
+				"EG",
+				"C:\\xampp\\htdocs\\sublime\\egan.sublime-project"
+			],
+			[
+				"egan",
+				"C:\\xampp\\htdocs\\sublime\\egan.sublime-project"
+			],
+			[
+				"good",
+				"C:\\xampp\\htdocs\\sublime\\good_agency.sublime-project"
+			],
+			[
+				"ega",
+				"C:\\xampp\\htdocs\\sublime\\egan.sublime-project"
+			],
+			[
+				"guide",
+				"C:\\xampp\\htdocs\\sublime\\guide_dogs.sublime-project"
+			],
+			[
+				"h2",
+				"C:\\xampp\\htdocs\\sublime\\h2only.sublime-project"
+			],
+			[
+				"anim",
+				"C:\\Users\\cparsons\\Desktop\\projects\\sublime\\animations.sublime-project"
+			],
+			[
+				"goo",
+				"C:\\xampp\\htdocs\\sublime\\good_agency.sublime-project"
+			],
+			[
+				"atl",
+				"C:\\xampp\\htdocs\\sublime\\atl.sublime-project"
+			],
+			[
+				"alt",
+				"C:\\xampp\\htdocs\\sublime\\atl.sublime-project"
+			],
+			[
+				"mercy",
+				"C:\\xampp\\htdocs\\sublime\\mercy_ships.sublime-project"
+			],
+			[
+				"built",
+				"C:\\Users\\cparsons\\Desktop\\projects\\sublime\\builtbychris.sublime-project"
+			],
+			[
+				"#",
+				"C:\\xampp\\htdocs\\sublime\\#pay.sublime-project"
+			],
+			[
+				"rspca",
+				"C:\\xampp\\htdocs\\sublime\\rspca_walkies.sublime-project"
+			],
+			[
+				"por",
+				"C:\\Users\\cparsons\\Desktop\\projects\\sublime\\portfolio.sublime-project"
+			],
+			[
+				"meryc",
+				"C:\\xampp\\htdocs\\sublime\\mercy_ships.sublime-project"
+			],
+			[
+				"buil",
+				"C:\\Users\\cparsons\\Desktop\\projects\\sublime\\builtbychris.sublime-project"
+			],
+			[
+				"rspca ",
+				"C:\\xampp\\htdocs\\sublime\\rspca_walkies.sublime-project"
+			],
+			[
+				"good agenc",
+				"C:\\xampp\\htdocs\\sublime\\good_agency.sublime-project"
+			],
+			[
+				"xmas",
+				"C:\\xampp\\htdocs\\sublime\\good_xmas.sublime-project"
+			],
+			[
+				"good a",
+				"C:\\xampp\\htdocs\\sublime\\good_agency.sublime-project"
+			],
+			[
+				"good_",
+				"C:\\xampp\\htdocs\\sublime\\good_agency.sublime-project"
+			],
+			[
+				"x",
+				"C:\\xampp\\htdocs\\sublime\\good_xmas.sublime-project"
+			],
+			[
+				"ww",
+				"C:\\xampp\\htdocs\\sublime\\wwf.sublime-project"
+			],
+			[
+				"wwf",
+				"C:\\xampp\\htdocs\\sublime\\wwf.sublime-project"
+			],
+			[
+				"open",
+				"C:\\xampp\\htdocs\\sublime\\open_age.sublime-project"
+			],
+			[
+				"nspcc",
+				"C:\\xampp\\htdocs\\sublime\\NSPCC.sublime-project"
+			],
+			[
+				"undierun",
+				"C:\\xampp\\htdocs\\sublime\\undierun.sublime-project"
+			],
+			[
+				"nsp",
+				"C:\\xampp\\htdocs\\sublime\\NSPCC.sublime-project"
+			],
+			[
+				"undie",
+				"C:\\xampp\\htdocs\\sublime\\undierun.sublime-project"
+			],
+			[
+				"psi",
+				"C:\\Users\\cparsons\\Desktop\\psi\\psi.sublime-project"
+			],
+			[
+				"undieru",
+				"C:\\xampp\\htdocs\\sublime\\undierun.sublime-project"
+			],
+			[
+				"un",
+				"C:\\xampp\\htdocs\\sublime\\undierun.sublime-project"
+			],
+			[
+				"i",
+				"C:\\xampp\\htdocs\\sublime\\undierun.sublime-project"
+			],
+			[
+				"ope",
+				"C:\\xampp\\htdocs\\sublime\\open_age.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

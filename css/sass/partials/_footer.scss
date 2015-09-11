@@ -1,0 +1,26 @@
+.site_footer .inner_content {
+	border-top: 1px solid $grey;
+}
+.site_footer nav ul li {
+	display: inline-block;
+	padding: 0 5px;
+}
+.site_footer nav ul li:after {
+
+
+}
+.site_footer nav ul li a {
+	color: $grey;
+	display: block;
+}
+
+
+// TABLET STYLES
+@include respond-to(tablet) {
+	
+}
+
+// MOBILE SYLES
+@include respond-to(mobile) {
+	
+}
