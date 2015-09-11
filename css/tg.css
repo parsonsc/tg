@@ -5840,6 +5840,12 @@ span.price {
   padding: 0 0 10px;
 }
 
+aside.product_details ul li {
+  display: block;
+  width: 100%;
+  padding: 10px 0;
+}
+
 @media only screen and (min-width: 601px) and (max-width: 800px) {
   .inner_content {
     max-width: 96%;
@@ -5855,7 +5861,7 @@ span.price {
   }
 }
 header.site_header .inner_content {
-  border-bottom: 1px solid #ef445f;
+  border-bottom: 5px solid #ef445f;
   padding: 20px 0;
   overflow: hidden;
 }
