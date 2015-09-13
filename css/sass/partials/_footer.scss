@@ -32,11 +32,16 @@
 
 // TABLET STYLES
 @include respond-to(tablet) {
-	
+	footer.site_footer {
+		position: relative;
+	}
 }
 
 // MOBILE SYLES
 @include respond-to(mobile) {
+	.site_footer {	
+		position: relative;
+	}
 	.site_footer .inner_content {
 		padding: 10px 0;
 	}

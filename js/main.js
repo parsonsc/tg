@@ -1,3 +1,5 @@
+// Custom trial fonts. Please ignore.
+
 (function() {
   var path = '//easy.myfonts.net/v2/js?sid=230539(font-family=Brandon+Text+Bold)&sid=230543(font-family=Brandon+Text+Light)&sid=230545(font-family=Brandon+Text+Medium)&sid=230546(font-family=Brandon+Text+Regular)&key=nZaFk7k0ei',
       protocol = ('https:' == document.location.protocol ? 'https:' : 'http:'),
@@ -44,10 +46,13 @@ $(document).ready(function(){
     }
   });
 
-  
-
+  $(".basket").click(function(){
+    $(".overlay").show();    
+  });
+  $(".close").click(function(){
+    $(".overlay").hide();    
+  });
 });
-
 
 
 
