@@ -1,5 +1,10 @@
 // FRAMEWORK
 
+#mfPreviewBarShow,
+#mfPreviewBar {
+	display: none!important;
+}
+
 .clear {
 	clear: both;
 	overflow: hidden;
@@ -22,6 +27,7 @@ body {
 a {
 	text-decoration: none;
 	outline: 0;
+	@include transition(all 0.2s);
 }
 a:hover, a:active, a:focus {
 	outline: 0;
@@ -67,8 +73,12 @@ video {
 h1,h2,h3,h4,h5, {
 	font-family: $title_font;
 }
+h1 {
+	color: $pink;
+}
 // Site cta
-a.site_cta {
+a.site_cta,
+button.site_cta {
 	@include site_cta;
 }
 
@@ -81,10 +91,9 @@ a.site_cta {
 	font-family: $body_font;
 }
 .inner_content {
-	width: 100%;
-	max-width: 1020px;
-	min-width: 960px;
+	width: 1020px;
 	margin: 0 auto;
+	position: relative;
 }
 
 // GENERIC SITE STYLES
@@ -94,71 +103,131 @@ a.site_cta {
 }
 .breadcrumb ul li {
 	display: inline-block;
+	padding-right: 15px;
+	position: relative;
+}
+.breadcrumb ul li:after {
+	content: ">";
+    position: absolute;
+    right: 0;
+    color: $dark_grey;
 }
 .breadcrumb ul li a {
-	color: $light_grey;
-}
-.breadcrumb ul li.selected a {
 	color: $dark_grey;
 }
-
+.breadcrumb ul li a:hover {
+	color: $black;
+}
+.breadcrumb ul li.selected:after {
+	display: none;
+}
+.breadcrumb ul li.selected a {
+	font-weight: bold;
+	color: $black;
+}
 
 // main content
 .main_content {
 	padding: 20px 0;
 }
-.main_content section {
-	margin: 0 25px;
+#accordian {
+	background: $light_grey;
+	width: 160px;
+	margin: 0 auto;
+	color: $black;
 	float: left;
 	display: block;
-	width: 550px;
+}
+
+#accordian h3 {
+	font-size: 12px;
+	padding: 10px;
+	margin: 0 auto;
+	cursor: pointer;
+	background: $dark_grey; 
+	color: $white
+}
+/*list items*/
+#accordian li {
+	list-style-type: none;
+}
+/*links*/
+#accordian ul ul li a {
+	color: $dark_grey;
+	text-decoration: none;
+	font-size: 11px;
+	line-height: 27px;
+	display: block;
+	padding: 0 15px;
+	transition: all 0.15s;
+}
+#accordian ul ul li.selected a {
+	color: $black;
+}
+/*hover effect on links*/
+// #accordian ul ul li a:hover {
+// 	background: #003545;
+// 	border-left: 5px solid lightgreen;
+// }
+
+#accordian ul ul {
+	display: none;
+}
+#accordian li.active ul {
+	display: block;
+}
+
+
+.main_content section {
+	margin: 0 20px;
+	float: left;
+	display: block;
+	width: 620px;
+	font-size: 11px;
 }
 .main_content section figure.product_img {
 	float: left;
 	width: 220px;
+	text-align: center;
 	margin-right: 20px;
 }
+.main_content section figure.product_img.active {
+	position: absolute;
+	width: 400px;
+}
+.main_content section figure.product_img a {
+	color: $dark_grey;
+}
+.main_content section figure.product_img a:hover {
+	color: $black;
+}
 .main_content section article {
-	float: left;
-	width: 310px
+	float: left;	
+	width: 380px
 }
-
-// ACCORIDAN
-.main_content nav.accordion {
-	float: left;
-	width: 200px;
-	display: block;
+.main_content section article h1 {
+	font-size: 27px;
+	margin: 0 0 5px 0;
 }
-.main_content nav.accordion ul li {
-	display: block;
-	width: 100%;	
-	text-align: center;
-	background: $dark_grey;
-	border-bottom: 1px solid $white;
+.main_content section article h2.author {
+	font-size: 14px;
+	font-weight: 300;
+	color: $dark_grey;
+	margin-top: 0;
 }
-.main_content nav.accordion ul li a {
-	color: $white;
-	display: block;
-	padding: 10px 0;
+.main_content section article p {
+	line-height: 16px;
 }
-.main_content nav.accordion ul li ul {
-	display: none;
-}
-.main_content nav.accordion ul li ul li {
-	background: $light_grey;
-	border-bottom: 0;
-	text-indent: 20px;
-}
-
 
 
 // ASIDE BASKET SIDEBAR
 aside.product_details {
 	background: $light_grey;
-	padding: 15px;
+	padding: 10px;
 	overflow: hidden;
-	width: 200px;
+	width: 160px;
 	float: right;
+	font-size: 10px;
 }
 aside.product_details a.site_cta {
 	width: 100%;
@@ -171,13 +240,18 @@ span.price {
 	display: block;
 	padding: 0 0 10px;
 }
+aside.product_details ul {
+	margin: 15px auto;
+}
 aside.product_details ul li {
 	display: block;
 	width: 100%;
-	padding: 10px 0;
+	padding: 2px 0;
+	color: $dark_grey
 }
 aside.product_details ul li span {
-	font-family: $title_font;
+	font-family: $oswald;
+	font-weight: bold;
 }
 
 // TABLET STYLES
@@ -186,17 +260,46 @@ aside.product_details ul li span {
 		max-width: 96%;
 		min-width: 96%;
 		padding: 0 2%;
+	}
+
+	.main_content nav.accordion {
+	    width: 19%;
 	}	
+	.main_content section {
+	    margin: 0 2%;
+	    width: 50%;
+	}
+	.main_content section figure.product_img {
+	    width: 40%;
+	    margin-right: 2%;
+	}
 }
 
 
 // MOBILE STYLES
 @include respond-to(mobile) {
+	.show_mobile {
+		display: block;
+	}
+	.show_desktop {display: none;}
 	.inner_content {
 		max-width: 96%;
 		min-width: 96%;
 		padding: 0 2%;
 	}	
+
+	.main_content section {
+		margin: 0;
+		width: 100%;
+	}
+	.main_content section figure.product_img {
+		margin: 0 auto;
+		float: none;
+	}
+	.main_content section article {
+		float: left;
+		width: 100%
+	}
 
 	// ASIDE BASKET SIDEBAR
 	aside.product_details {
@@ -205,4 +308,29 @@ aside.product_details ul li span {
 		float: none;
 	}
 
+	// ACCORIDAN
+	.main_content nav.accordion {
+		width: 100%;
+	}
+	.main_content nav.accordion ul li {
+		width: 100%;
+		text-align: center;
+		text-indent: 0;
+	}
+	.main_content nav.accordion ul li ul li {
+		text-indent: 0;
+	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+

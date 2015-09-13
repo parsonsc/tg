@@ -10,45 +10,49 @@
 })();
 
 (function() {
-        var path = '//easy.myfonts.net/v2/js?sid=273917(font-family=Snow+Cone+Pro+Line)&sid=273919(font-family=Snow+Cone+Pro+Regular)&sid=273922(font-family=Snow+Cone+Pro+Bold)&key=9m3HlHUuEe',
-            protocol = ('https:' == document.location.protocol ? 'https:' : 'http:'),
-            trial = document.createElement('script');
-        trial.type = 'text/javascript';
-        trial.async = true;
-        trial.src = protocol + path;
-        var head = document.getElementsByTagName("head")[0];
-        head.appendChild(trial);
-    })();
-    
-    WebFontConfig = {
-    google: { families: [ 'Oswald:400,300,700:latin' ] }
-  };
-  (function() {
-    var wf = document.createElement('script');
-    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-    wf.type = 'text/javascript';
-    wf.async = 'true';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(wf, s);
+    var path = '//easy.myfonts.net/v2/js?sid=273917(font-family=Snow+Cone+Pro+Line)&sid=273919(font-family=Snow+Cone+Pro+Regular)&sid=273922(font-family=Snow+Cone+Pro+Bold)&key=9m3HlHUuEe',
+        protocol = ('https:' == document.location.protocol ? 'https:' : 'http:'),
+        trial = document.createElement('script');
+    trial.type = 'text/javascript';
+    trial.async = true;
+    trial.src = protocol + path;
+    var head = document.getElementsByTagName("head")[0];
+    head.appendChild(trial);
   })();
+  
+  WebFontConfig = {
+  google: { families: [ 'Oswald:400,300,700:latin' ] }
+};
+(function() {
+  var wf = document.createElement('script');
+  wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+    '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+  wf.type = 'text/javascript';
+  wf.async = 'true';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(wf, s);
+})();
+
+
 $(document).ready(function(){
 
-	// ACCORDION
-	$('.accordion-section-title').click(function(e) {
-        // Grab current anchor value
-        var currentAttrValue = $(this).attr('href');
-        if($(e.target).is('.active')) {
-          close_accordion_section();
-        }else {
-          close_accordion_section();
+  $("#accordian h3").click(function(){    
+    $("#accordian ul ul").slideUp();    
+    if(!$(this).next().is(":visible"))
+    {
+      $(this).next().slideDown();
+    }
+  });
 
-          // Add active class to section title
-          $(this).addClass('active');
-          // Open up the hidden content panel
-          $('.accordion ' + currentAttrValue).slideDown(300).addClass('open'); 
-        }
-        e.preventDefault();
-    });
+  
 
 });
+
+
+
+
+
+
+
+
+

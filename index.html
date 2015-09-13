@@ -17,15 +17,23 @@
 	<div class="site_container">
 		<header class="site_header">
 			<div class="inner_content">
+
+				<!-- Site logo -->
 				<div class="logo">
 					<a href="#">
 						<img src="images/logo.jpg" alt="Tangent snowball">
 					</a>
 				</div>
-			</div>
 
-			<div class="searchbar">
-				
+				<!-- Searchbar -->
+				<div class="searchbar">
+					
+					<form>
+						<input class="sb-search-input" placeholder="Enter your search term..." type="text" value="" name="search" id="search">
+						<button type="submit" class="sb-search-submit"><i class="fa fa-search"></i></button>
+						<span class="sb-icon-search"></span>
+					</form>
+				</div>
 			</div>
 		</header>
 		<section class="breadcrumb">
@@ -42,94 +50,101 @@
 		</section>
 		<div class="main_content" id="hpContent">
 			<div class="inner_content">
-				<nav class="accordion">
+				<div id="accordian">
 					<ul>
-						<li>
-							<a href="#">lorem</a>
+						<li class="active"> 
+							<h3>Books</h3>
 							<ul>
 								<li>
-									<a href="#"></a>
+									<a href="#">Fiction</a>
+								</li>
+								<li class="selected">
+									<a href="#">Poetry</a>
 								</li>
 								<li>
-									<a href="#"></a>
+									<a href="#">Performing Arts</a>
+								</li>
+							</ul>
+						</li>
+						
+						<li>
+							<h3>Authors</h3>
+							<ul>
+								<li>
+									<a href="#">Fiction</a>
 								</li>
 								<li>
-									<a href="#"></a>
+									<a href="#">Poetry</a>
+								</li>
+								<li>
+									<a href="#">Performing Arts</a>
 								</li>
 							</ul>
 						</li>
 						<li>
-							<a href="#">lorem</a>
+							<h3>Finds</h3>
 							<ul>
 								<li>
-									<a href="#"></a>
+									<a href="#">Fiction</a>
 								</li>
 								<li>
-									<a href="#"></a>
+									<a href="#">Poetry</a>
 								</li>
 								<li>
-									<a href="#"></a>
+									<a href="#">Performing Arts</a>
 								</li>
 							</ul>
 						</li>
 						<li>
-							<a href="#">lorem</a>
+							<h3>Book Club</h3>
 							<ul>
 								<li>
-									<a href="#"></a>
+									<a href="#">Fiction</a>
 								</li>
 								<li>
-									<a href="#"></a>
+									<a href="#">Poetry</a>
 								</li>
 								<li>
-									<a href="#"></a>
+									<a href="#">Performing Arts</a>
 								</li>
 							</ul>
 						</li>
-						<li>
-							<a href="#">lorem</a>
-							<ul>
-								<li>
-									<a href="#"></a>
-								</li>
-								<li>
-									<a href="#"></a>
-								</li>
-								<li>
-									<a href="#"></a>
-								</li>
-							</ul>
-						</li>
+						
 					</ul>
-				</nav>
+				</div>
 				<section>
 					<figure class="product_img">
-						<img src="images/image.jpg" alt="Nam posure turpis">
-						<figcaption>
-							<p>Click for full size version</p>
-						</figcaption>
+						<a href="images/image.jpg" data-lightbox="image-1" data-title="My caption">
+							<img src="images/image.jpg" alt="Nam posure turpis">
+							<figcaption>
+								<p>Click for full size version</p>
+							</figcaption>
+						</a>
 					</figure>
 					
 					<article>
-						<h1></h1>
-						<span></span>
+						<h1>Nam posuere turpis</h1>
+						<h2 class="author">Leo Semper</h2>	
+						<p>Enean mauris dui, sodales vel, viverra id, pulvinar nec, augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque magna odio, fringilla vitae, tempus eget, cursus in, dolor. Mauris lorem nibh, volutpat a, ultrices et, nonummy ut, ligula. Nam ac enim nunc ultrices feugiat. In hac habitasse platea dictumst.</p>
 
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus obcaecati minus at ducimus, consequuntur cupiditate consequatur repellat ab, magni cum enim, sit quas provident ipsam minima numquam quibusdam optio odio. it. Dolore rem accusantium deserunt, consequatur placeat anim. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore rem accusantium deserunt, consequatur placeat animi provident laborum sint suscipit labore</p>
+						<p>Curabitur nulla nibh, placerat sed sollicitudin in, consectetur sit amet dui. Nulla scelerisque tortor sed felis dignissim scelerisque. In vehicula iaculis ante id adipiscing. In arcu dolor, rutrum nec pretium non, feugiat id metus. Phasellus diam felis, volutpat sit amet scelerisque non.</p>
 
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore rem accusantium deserunt, consequatur placeat animi provident laborum sint suscipit labore sit quidem est, ipsam ducimus laboriosam facilis, enim ea architecto. dolor sit amet, consectetur adipisicing elit. Doloremque sequi, accusamus, quasi nemo placeat aperiam nam vel.</p>
+						<p>Quisque semper augue erat, vel consequat ligula. Donec quis lectus sit ameteu leo iaculis suscipit.</p>
 
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque sequi, accusamus, quasi nemo placeat aperiam nam vel quibusdam inventore, doloribus officiis. Cupiditate officiis numquam incidunt deleniti veniam temporibus culpa fuga.</p>
+						
 					</article>
 				</section>
 				<aside class="product_details">
+					<a href="#" class="show_more show_mobile"><i class="fa fa-chevron-up"></i></a>
 					<span class="price">&pound; 10.20</span>
 					<a href="#" class="site_cta"><i class="fa fa-shopping-cart"></i> Add to cart</a>
-					<ul>
-						<li><span></span></li>
-						<li><span></span></li>
-						<li><span></span></li>
-						<li><span></span></li>
-						<li><span></span></li>
+					
+					<ul>						 
+						<li><span>Edition: </span>Hardback</li>
+						<li><span>ISBN: </span>01214564646</li>
+						<li><span>Published: </span>02.08.2001</li>
+						<li><span>Nº of pages: </span>312</li>
+						<li><span>Age rating: </span>11+</li>
 					</ul>
 				</aside>
 			</div>
@@ -147,6 +162,7 @@
 		</footer>
 	</div>
 	<script src="js/jquery.min.js"></script>
+	<script src="js/lightbox.js"></script>
 	<script src="js/main.js"></script>
 </body>
 </html>

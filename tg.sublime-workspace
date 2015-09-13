@@ -4,394 +4,87 @@
 		"selected_items":
 		[
 			[
-				"s",
-				"site_header"
-			],
-			[
-				"padd",
-				"padding"
-			],
-			[
-				"padding-",
-				"padding-bottom"
-			],
-			[
-				"text",
-				"text-decoration"
-			],
-			[
-				"back",
-				"background-position"
-			],
-			[
-				"ho",
-				"red_hover"
-			],
-			[
-				"border",
-				"border-spacing"
-			],
-			[
-				"font-",
-				"font-family"
-			],
-			[
-				"font",
-				"font-size"
-			],
-			[
-				"beige",
-				"beige_block"
-			],
-			[
-				"min",
-				"min-width"
-			],
-			[
-				"mari",
-				"margin"
-			],
-			[
-				"backg",
-				"background-repeat"
-			],
-			[
-				"ab",
-				"ab_img"
-			],
-			[
-				"site_",
-				"site_cta"
-			],
-			[
-				"backgrou",
-				"background"
-			],
-			[
-				"ma",
-				"margin-top"
-			],
-			[
-				"dar",
-				"dark_green"
-			],
-			[
-				"a",
-				"absolute"
-			],
-			[
-				"im",
-				"important"
-			],
-			[
-				"new",
-				"news_grid"
-			],
-			[
-				"margin",
-				"margin-right"
-			],
-			[
-				"backgro",
-				"background"
-			],
-			[
-				"background",
-				"background-image"
-			],
-			[
-				"text-",
-				"text-transform"
-			],
-			[
-				"ov",
-				"overflow"
-			],
-			[
-				"font-s",
-				"font-size"
-			],
-			[
-				"border-ra",
-				"border-top-right-radius"
-			],
-			[
-				"mar",
-				"margin"
-			],
-			[
-				"drop",
-				"drop_column"
-			],
-			[
-				"dro",
-				"drop_down_nav"
-			],
-			[
-				"header",
-				"header_subnav"
-			],
-			[
-				"nav",
-				"nav"
-			],
-			[
-				"cel",
-				"cellspacing	Attr"
-			],
-			[
-				"li",
-				"lis	list-style"
-			],
-			[
-				"padding",
-				"padding-bottom"
-			],
-			[
-				"inline",
-				"inline-block"
-			],
-			[
-				"tha",
-				"thanks_header"
-			],
-			[
-				"footer",
-				"footer_subnav"
-			],
-			[
-				"img",
-				"img"
-			],
-			[
-				"slider_to",
-				"slider_total_box"
-			],
-			[
-				"margin-",
-				"margin-bottom"
-			],
-			[
-				"si",
-				"site_cta"
-			],
-			[
-				"ar",
-				"article	Tag"
-			],
-			[
-				"bac",
-				"background-color"
-			],
-			[
-				"border-rad",
-				"border-top-left-radius"
-			],
-			[
-				"pad",
-				"padding"
-			],
-			[
-				"pa",
-				"padding-left"
-			],
-			[
-				"blo",
-				"inline-block"
-			],
-			[
-				"re",
-				"removeClass"
-			],
-			[
-				"card",
-				"card-options"
-			],
-			[
-				"are",
-				"are_you_content"
-			],
-			[
-				"str",
-				"stories_carousel"
-			],
-			[
-				"paddin",
-				"padding-top"
-			],
-			[
-				"res",
-				"resource_article"
-			],
-			[
-				"fl",
-				"float"
-			],
-			[
-				"toggle",
-				"toggle_label"
-			],
-			[
-				"bx-",
-				"bx-viewport"
-			],
-			[
-				"fon",
-				"font-size"
-			],
-			[
-				"bord",
-				"border-bottom"
-			],
-			[
-				"twitter",
-				"twitter_feed"
-			],
-			[
-				"soc",
-				"social_row"
-			],
-			[
-				"mor",
-				"more_stories"
-			],
-			[
-				"inlin",
-				"inline-block"
-			],
-			[
-				"backgron",
-				"background-size"
-			],
-			[
-				"loc",
-				"location_list"
-			],
-			[
-				"ca",
-				"carousel"
-			],
-			[
-				"ra",
-				"read_more_cta"
-			],
-			[
-				"read",
-				"read_more_cta"
-			],
-			[
-				"max-",
-				"max-width"
-			],
-			[
-				"reg",
-				"Register"
-			],
-			[
 				"pos",
 				"position"
+			],
+			[
+				"paddi",
+				"padding-bottom"
 			],
 			[
 				"main",
 				"main_content"
 			],
 			[
-				"than",
-				"thankYou"
+				"padd",
+				"padding-top"
+			],
+			[
+				"s",
+				"sb-search"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"so",
+				"site_footer"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"si",
+				"site_nav"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 2116,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/sass/tg.scss",
-			"settings":
-			{
-				"buffer_size": 241,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/sass/mixins/_colour_palette.scss",
-			"settings":
-			{
-				"buffer_size": 111,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/sass/mixins/_mixins.scss",
-			"settings":
-			{
-				"buffer_size": 1056,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/sass/partials/_fonts.scss",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/sass/partials/_footer.scss",
-			"settings":
-			{
-				"buffer_size": 465,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/sass/partials/_header.scss",
-			"settings":
-			{
-				"buffer_size": 412,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/sass/partials/_framework.scss",
-			"settings":
-			{
-				"buffer_size": 1341,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "js/main.js",
-			"settings":
-			{
-				"buffer_size": 578,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
 			[
 				"pack",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 528.0
+		"width": 449.0
 	},
 	"console":
 	{
-		"height": 146.0,
+		"height": 139.0,
 		"history":
 		[
 			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
@@ -406,140 +99,144 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/Chris/Desktop/tg"
+	],
 	"file_history":
 	[
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/rvs.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/config.rb",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/js/main.js",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/footer.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/post-formats/format-aside.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/rvsregister/smarty/templates/thanks.html",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_thanks.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_framework.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/page-templates/about.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/email/rvs_email.html",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/rvsregister/email/thanks_page.html",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/rvs.css",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/rvsregister/smarty/templates/register.html",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/header.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/smarty/templates/thanks.html",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/page-templates/notitle.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/page-templates/notitle2.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_header.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_about.scss",
-		"/C/xampp/htdocs/doe/flats/css/sass/partials/_footer.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_footer.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/page-templates/home.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/templates/footer_box.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_forms.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/post-formats/format-quote.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/fonts/FontAwesome.otf",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/keyring/includes/oauth-php/tests/Mock_OAuthSignatureMethod_RSA_SHA1.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/ApiClients/Model/StoryUpdateRequest.php",
-		"/C/xampp/htdocs/rvs/wp-content/languages/themes/twentyfifteen-en_GB.mo",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/rutr-users/front-end/rutr.recover.password.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_slideshow.scss",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/second-column.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/mixins/_mixins.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/page-templates/about.html",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_animate.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_font_awesome.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_fonts.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_hp.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_tabs.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_normalize.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_register.scss",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/sidebar-copyright.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/sidebar.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/rutr-profile/functions/options.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/package.json",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/akismet/akismet.php",
-		"/C/xampp/htdocs/rvs/flats/index.html",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/templates/ticket_box.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/ApiClients/ClientBase.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/homepage/homepage.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/sass/mixins/_colour_palette.scss",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/tests/responses/list_details.json",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/samples/get_billing_details.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/js/color-scheme-control.js",
-		"/C/xampp/htdocs/rvs/flats/email/rvs_email.html",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/smarty/templates/thanks-captain.html",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/library/core.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/tweets-into-posts-table/twitteroauth/phpunit.xml",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/samples/external_session_url.php",
-		"/C/xampp/htdocs/rvs/flats/css/sass/partials/_slideshow.scss",
-		"/C/Users/cparsons/AppData/Local/Temp/wzb55d/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
-		"/C/Users/cparsons/AppData/Local/Temp/wzd30a/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/samples/list/update.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/internals/core.smarty_include_php.php",
-		"/C/Users/cparsons/AppData/Local/Temp/wzd126/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
-		"/C/Users/cparsons/AppData/Local/Temp/wz8eaa/MyFontsWebfontsKit/StartHere.html",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/rvsregister/front-end/rvs.thanks.php",
-		"/C/Users/cparsons/AppData/Local/Temp/wzc8cd/MyFontsWebfontsKit/StartHere.html",
-		"/C/Users/cparsons/AppData/Local/Temp/wz01d6/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/tests/responses/bounced_subscribers.json",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/analyticstracking.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/includes/templates/vendor/handlebars/handlebars-source.gemspec",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/ie8-and-down.css",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/content-link.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/includes/templates/vendor/marionette/license.txt",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/rutr-profile/premium/addons/email.customizer.txt",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/index.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/css/ie.css",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/header.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfourteen/header.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentythirteen/header.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/css/ie.css",
-		"/C/xampp/htdocs/rvs/wp-content/index.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/rutr-profile/functions/basic.info.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/includes/templates/vendor/handlebars/handlebars.js",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/tests/responses/oauth_exchange_token.json",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/includes/templates/vendor/handlebars/README.md",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/rutr-profile/emails/signup.html",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/internals/core.assign_smarty_interface.php",
-		"/C/Users/cparsons/Desktop/projects/diamonds/index.html",
-		"/C/Users/cparsons/Desktop/projects/diamonds/css/main.css",
-		"/C/Users/cparsons/Desktop/projects/diamonds/stylesheets/screen.css",
-		"/C/Users/cparsons/Desktop/projects/diamonds/css/config.rb",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/modernizr/modernizr.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/inc/custom-header.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/templates/header_box.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/footer.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfourteen/footer.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentythirteen/footer.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfourteen/sidebar-footer.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/includes/templates/vendor/marionette/api/helpers.jsdoc",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/internals/core.load_plugins.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/homepage/homepage.css",
-		"/C/xampp/htdocs/rvs/flats/about.html",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/keyring/token.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/author-bio.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/includes/lib/class-eventbrite-integration-taxonomy.php",
-		"/C/xampp/htdocs/DoE/flats/css/sass/partials/_framework.scss",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/ApiClients/TeamApi.php",
-		"/C/xampp/htdocs/h2only/wp-content/plugins/justgiving/smarty/templates/thanks-captain.html",
-		"/C/xampp/htdocs/rvs/wp-content/languages/admin-network-en_GB.mo",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/samples/authentication/auth_with_oauth.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/mimePart.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/index.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/page-templates/thanks.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfourteen/inc/custom-header.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentythirteen/inc/custom-header.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/rvsregister/js/rvs.js",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/readme.txt",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfifteen/content-none.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/createsend-php/tests/responses/campaign_opens.json",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/cm/cm.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbrite-integration/assets/js/frontend.js",
-		"/C/xampp/htdocs/rvs/wp-content/themes/twentyfourteen/js/slider.js",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/rvsregister/front-end/rvs.register.php",
-		"/C/xampp/htdocs/rvs/wp-content/themes/rvs/post-formats/format.php",
-		"/C/xampp/htdocs/rvs/wp-content/plugins/eventbritedg/includes/plugins/function.html_options.php"
+		"/Users/Chris/Desktop/builtbychris/css/sass/partials/_framework.scss",
+		"/Users/Chris/Desktop/builtbychris/index.html",
+		"/Users/Chris/Desktop/work/built/H2only.html",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_tabs.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_slideshow.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/js/main.js",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_register.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_footer.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_fonts.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_font_awesome.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_animate.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_about.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_forms.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_header.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_framework.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_hp.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_normalize.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/themes/rvs/css/sass/partials/_thanks.scss",
+		"/Applications/MAMP/htdocs/rvs/wp-content/plugins/homepage/homepage.css",
+		"/Applications/MAMP/htdocs/rvs/wp-config.php",
+		"/Applications/MAMP/htdocs/rvs/flats/css/sass/partials/_framework.scss",
+		"/Users/Chris/Desktop/work/greenleaves2/css/sass/partials/_grid.scss",
+		"/Users/Chris/Desktop/work/greenleaves/index.html",
+		"/Users/Chris/Desktop/work/greenleaves/js/main.js",
+		"/Users/Chris/Desktop/work/greenleaves/css/sass/greenleaves.scss",
+		"/Users/Chris/Desktop/work/greenleaves/css/sass/partials/_framework.scss",
+		"/Users/Chris/Desktop/work/greenleaves/css/sass/partials/_header.scss",
+		"/Users/Chris/Desktop/work/greenleaves/js/sidebarEffects.js",
+		"/Users/Chris/Desktop/work/greenleaves/sass/greanleaves.scss",
+		"/Users/Chris/Desktop/work/greenleaves/config.rb",
+		"/Users/Chris/Desktop/portfolio/builtbychris/index.html",
+		"/Users/Chris/Desktop/work/albe/css/sass/partials/_framework.scss",
+		"/Users/Chris/Desktop/work/albe/index.html",
+		"/Applications/MAMP/htdocs/albemarle/wp-config.php",
+		"/Users/Chris/Desktop/work/albe/js/main.js",
+		"/Applications/MAMP/htdocs/alice/alice_hart/css/sass/alice.scss",
+		"/Applications/MAMP/htdocs/alice/alice_hart/css/sass/partials/_insta.scss",
+		"/Applications/MAMP/htdocs/alice/alice_hart/css/sass/partials/_header.scss",
+		"/Applications/MAMP/htdocs/alice/alice_hart/index.html",
+		"/Applications/MAMP/htdocs/alice/alice_hart/js/main.js",
+		"/Applications/MAMP/htdocs/alice/alice_hart/css/sass/partials/insta.scss",
+		"/Applications/MAMP/htdocs/alice/alice_hart/js/insta.js",
+		"/Applications/MAMP/htdocs/builtbychris/css/sass/partials/_work.scss",
+		"/Applications/MAMP/htdocs/builtbychris/index.php",
+		"/Applications/MAMP/htdocs/builtbychris/index.html",
+		"/Users/Chris/Desktop/builtbychris/v3/css/sass/partials/_work.scss",
+		"/Users/Chris/Desktop/builtbychris/v3/css/sass/mixins/_mixins.scss",
+		"/Users/Chris/Desktop/builtbychris/v3/css/sass/partials/_tablet.scss",
+		"/Users/Chris/Desktop/builtbychris/v3/css/sass/partials/_mobile.scss",
+		"/Users/Chris/Desktop/builtbychris/v3/css/sass/partials/_loading_bar.scss",
+		"/Users/Chris/Desktop/builtbychris/v3/css/sass/partials/_header.scss",
+		"/Users/Chris/Desktop/builtbychris/v3/css/sass/partials/_framework.scss",
+		"/Users/Chris/Desktop/builtbychris/v3/css/sass/partials/_contact.scss",
+		"/Users/Chris/Desktop/builtbychris/v3/css/sass/partials/_footer.scss",
+		"/Users/Chris/Desktop/builtbychris/v3/css/sass/partials/_case_study.scss",
+		"/Users/Chris/Desktop/builtbychris/v3/css/sass/partials/_about.scss",
+		"/Users/Chris/Desktop/builtbychris/v3/css/sass/partials/_animate.scss",
+		"/Users/Chris/Desktop/builtbychris/v3/index.php",
+		"/Users/Chris/Desktop/builtbychris/v3/index.html",
+		"/Users/Chris/Desktop/builtbychris/v3/js/contact.js",
+		"/Users/Chris/Desktop/builtbychris/v3/js/main.js",
+		"/Users/Chris/Desktop/builtbychris/v3/js/jquery.waypoints.min.js",
+		"/Users/Chris/Desktop/builtbychris/v3/js/jquery.js",
+		"/Users/Chris/Desktop/builtbychris/v3/js/jquery.bxslider.min.js",
+		"/Users/Chris/Desktop/builtbychris/v3/js/imagesloaded.js",
+		"/Users/Chris/Desktop/builtbychris/v3/js/classie.js",
+		"/Users/Chris/Desktop/builtbychris/v3/js/AnimOnScroll.js",
+		"/Users/Chris/Desktop/builtbychris/v3/Good-agency.html",
+		"/Users/Chris/Desktop/builtbychris/v3/js/masonry.pkgd.min.js",
+		"/Users/Chris/Desktop/builtbychris/v3/js/modernizr-2.6.2.min.js",
+		"/Users/Chris/Desktop/builtbychris/v3/work_template.html",
+		"/Users/Chris/Desktop/builtbychris/v3/Undierun.html",
+		"/Users/Chris/Desktop/builtbychris/v3/The-hart-and-fuggle.html",
+		"/Users/Chris/Desktop/builtbychris/v3/Pip-mccormac.html",
+		"/Users/Chris/Desktop/builtbychris/v3/Mercy-ships.html",
+		"/Users/Chris/Desktop/builtbychris/v3/H2only.html",
+		"/Users/Chris/Desktop/builtbychris/v3/Great-plains.html",
+		"/Users/Chris/Desktop/builtbychris/v3/french-connection.html",
+		"/Users/Chris/Desktop/builtbychris/v3/Alice-hart.html",
+		"/Users/Chris/Desktop/builtbychris/v3/wwf.html",
+		"/Users/Chris/Desktop/builtbychris/v3/css/sass/mixins/_colour_palette.scss",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/d15ddce74ac5380efa66a04f107da591c867ddc5/_colour_palette.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/case-study.html",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/ba022ef3ec0819b2358efe3053627abd242998e0/_work.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/3e99511f067f2770191cc15ac39bcbd8f51a3874/_work.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/fonts/fontawesome-webfont.svg",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/ba022ef3ec0819b2358efe3053627abd242998e0/_case_study.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/3e99511f067f2770191cc15ac39bcbd8f51a3874/_case_study.scssc",
+		"/Users/Chris/Desktop/builtbychris/images/old/case_arrow.svg",
+		"/Users/Chris/Desktop/builtbychris/images/case_arrow.svg",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/ba022ef3ec0819b2358efe3053627abd242998e0/_header.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/3e99511f067f2770191cc15ac39bcbd8f51a3874/_header.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/ba022ef3ec0819b2358efe3053627abd242998e0/_contact.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/3e99511f067f2770191cc15ac39bcbd8f51a3874/_contact.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/css/config.rb",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/17d03613c125918cd0766f51918feb21dc3c074a/_transform.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/font-awesome-4.3.0/less/rotated-flipped.less",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/ba022ef3ec0819b2358efe3053627abd242998e0/_about.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/3e99511f067f2770191cc15ac39bcbd8f51a3874/_about.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/font-awesome-4.3.0/less/animated.less",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/ba022ef3ec0819b2358efe3053627abd242998e0/_framework.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/3e99511f067f2770191cc15ac39bcbd8f51a3874/_framework.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/ba022ef3ec0819b2358efe3053627abd242998e0/_footer.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/css/.sass-cache/3e99511f067f2770191cc15ac39bcbd8f51a3874/_footer.scssc",
+		"/Users/Chris/Desktop/builtbychris/v3/font-awesome-4.3.0/less/variables.less",
+		"/Users/Chris/Desktop/portfolio/index.html",
+		"/Users/Chris/Desktop/portfolio/js/main.js",
+		"/Users/Chris/Desktop/portfolio/js/jquery.min.js",
+		"/Users/Chris/Desktop/portfolio/css/sass/main.scss",
+		"/Users/Chris/Desktop/portfolio/css/sass/partials/_about.scss",
+		"/Users/Chris/Desktop/portfolio/css/sass/partials/_font.scss",
+		"/Users/Chris/Desktop/portfolio/css/sass/partials/_header.scss",
+		"/Users/Chris/Desktop/portfolio/css/sass/partials/_framework.scss",
+		"/Users/Chris/Desktop/portfolio/css/sass/partials/_skills.scss",
+		"/Users/Chris/Desktop/portfolio/css/sass/partials/_project_grid.scss",
+		"/Users/Chris/Desktop/portfolio/css/.sass-cache/c8ee174639810031ed3c37aba354e85c73e6a9d7/_about.scssc",
+		"/Users/Chris/Desktop/portfolio/css/main.css",
+		"/Users/Chris/Desktop/portfolio/css/.sass-cache/c8ee174639810031ed3c37aba354e85c73e6a9d7/_framework.scssc",
+		"/Users/Chris/Desktop/portfolio/css/.sass-cache/41f389dd41d2f50d087ce2dd618ac554fa167707/_framework.scssc",
+		"/Users/Chris/Desktop/portfolio/css/.sass-cache/c8ee174639810031ed3c37aba354e85c73e6a9d7/_header.scssc",
+		"/Users/Chris/Desktop/portfolio/css/.sass-cache/41f389dd41d2f50d087ce2dd618ac554fa167707/_header.scssc",
+		"/Users/Chris/Desktop/portfolio/css/.sass-cache/c8ee174639810031ed3c37aba354e85c73e6a9d7/_font.scssc",
+		"/Users/Chris/Desktop/portfolio/css/.sass-cache/41f389dd41d2f50d087ce2dd618ac554fa167707/_font.scssc",
+		"/Users/Chris/Documents/work/builtbychris/japow.html",
+		"/Users/Chris/Documents/wp-config.php",
+		"/Users/Chris/Desktop/email_sig.html",
+		"/Users/Chris/Documents/work/psi/templates/head.php",
+		"/Users/Chris/Documents/work/psi/index.php"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 22.0
 	},
 	"find_in_files":
 	{
@@ -553,137 +250,73 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"grey",
-			"\n	",
-			"color@",
-			"cooki",
-			"#cookieWarningContainer a",
-			"footer.site_footer nav.footer_nav ul li",
-			"\nCreate tickets with EventBrite",
-			"register",
 			".about_articles article",
-			".social_nav ul li",
-			"social_nav",
-			"block01",
-			".register .main_content nav.tabs_nav ul li.menu-item-128",
-			"eventdate",
-			"menu-",
-			".main_content nav.tabs_nav ul li",
-			"15px",
-			"1p",
-			"class=\"green_cta\" ",
-			"<a href=\"#\" class=\"green_cta\" style=\"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#719f87;",
-			"green_cta",
-			"719f87",
-			"green_cta",
-			"date",
-			"a.green_cta",
-			"section.social_bar",
-			".main_content nav.tabs_nav ul li",
-			"terms ",
-			"#cookieWarningContainer {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 92%;\n    z-index: 9999;\n    background: #719f87;\n    padding: 10px 4%;\n    text-align: center;\n    color: #fff;\n}",
-			"about_articles",
-			".user-forms .form-item.customCheckbox p",
-			"video",
-			".video",
-			".inner_content .video",
-			"sell",
-			"tickets",
-			"sell",
-			"section.social_bar .inner_content",
-			".user-forms .form-item select",
-			"367152",
-			".terms span.error",
-			"}\n",
-			"20",
-			".news ul.news_grid li p",
-			"background-repeat: no-repeat;\n	background-size: 100%;",
-			"<img src=\"images/slide_01.jpg\" alt=\"Case study\" class=\"\" width=\"100%\" />",
-			"jpg",
-			"slideshow",
-			"ul",
-			"max-wid",
-			"518067",
-			"webfonts/",
-			".beige_block",
-			".about_articles article img",
-			".news ul.news_grid",
-			".beige_block",
-			"about_page",
-			"user-forms .form-item ",
-			"hashtag_man",
-			".about_articles article",
-			".main_content section .inner_content",
-			"thanks_articles",
-			"social",
-			"social_share",
-			"50px",
-			".ourChoirHasThePowErrrrrr .campaign_header article",
+			".social_underline img",
+			".social_underline img\n",
+			".social_underline img",
 			"ourChoirHasThePowErrrrrr",
-			".campaign_header article",
-			"dfdbd6",
-			".main_content section .inner_content",
-			".help ul.news_ul",
-			".help ul.news_ul li img",
-			"@",
-			".help ul.news_ul li img	",
-			"@",
-			".help ul.news_ul li img	",
-			"/*!",
-			".help ul.news_ul li img",
-			".help ul.news_ul li img	",
-			"	.help ul.news_ul li img {\n		float: left;\n		padding-right: 5%;\n		padding-bottom: 30px;\n	}	",
-			".help ul.news_ul li img	",
-			"	.help ul.news_ul li img {\n		float: left;\n		padding-right: 5%;\n		padding-bottom: 30px;\n	}	",
-			".help ul.news_ul li img",
-			"news_ul",
-			".sign_up_banner",
-			"red",
-			".error",
-			".main_content section .inner_content",
-			".main_content nav.tabs_nav ul",
-			".help ul.news_ul li",
-			".help ul.news_ul",
-			".about_page",
-			"about_page",
-			"thanks_articles",
-			".help ul.news_ul li img",
-			"images/",
-			"img",
+			".dancing_man",
+			".help",
+			"campaign_header",
+			"bottom",
+			"grid_fluid_8",
+			"    position: absolute;",
+			".morphsearch",
+			"header.site_header a.nav_button",
+			"200x200",
+			"350x300",
+			"button",
+			"0.2s",
+			"5s",
 			";\n",
-			"1",
-			"ourChoirHasThePowErrrrrr",
-			"10px",
-			";\n",
-			"d1d1d1",
-			".campaign_header article",
-			"5",
-			"dancing_man",
-			"dancing",
-			".tabs-smaller .ui-tabs-nav li",
-			".tabs-smaller .ui-tabs-nav li ",
-			"606060",
-			"518067",
-			".slideshow ul li article a",
-			".slideshow ul li article a]",
-			".slideshow ul li article a",
-			"singe",
-			".help ul.news_ul li",
-			"text-pad-left",
-			"</h1>   ",
-			"<h1>",
-			"underline",
-			"width=\"50\"",
-			"   <td",
-			"<h1><img src=\"images/share.jpg\" alt=\"\" width=\"100%\" /></h1>             ",
-			"text-pad-left",
-			">\n",
-			"td.wrapper",
-			"left-text-pad",
-			"table.columns td"
+			"75",
+			"350x150",
+			"<img src=\"images/hp/oil.jpg\" alt=\"\" width=\"100%\">",
+			"<p>Creating unique experiences between the customer and the product.</p>",
+			"profile",
+			"prof",
+			"hp_banner",
+			"about",
+			"regOther",
+			"reg2pound",
+			"fieldset",
+			"cms",
+			"integration",
+			"<!-- <p>Lorem sits in the corner the whole day. She's into crochet.</p> -->",
+			"assunto",
+			"mensagem",
+			"Mensagem",
+			"mensagem",
+			"Contato",
+			"form_item",
+			"Telefone",
+			"Nome",
+			"our message has been sent!",
+			"your messa",
+			"Mensagem",
+			"fc/",
+			"fc",
+			"h1",
+			"alt=\"\"",
+			"lt=\"\"",
+			"nav.site_nav ul.social_buttons",
+			"article.hero_banner",
+			"width 2s;",
+			"alice",
+			"Alice",
+			"alice",
+			"style=\"background: #fff;\"",
+			"h2only",
+			"undierun",
+			"mercy",
+			"c/fc",
+			"transparent",
+			"figure.hover_effect:hover figcaption",
+			"fff",
+			"%;\n"
 		],
 		"highlight": true,
-		"in_selection": true,
+		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
@@ -698,268 +331,8 @@
 	"groups":
 	[
 		{
-			"selected": 6,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2116,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								361,
-								370
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "css/sass/tg.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 241,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								238,
-								238
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/sass/mixins/_colour_palette.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 111,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								96,
-								96
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "css/sass/mixins/_mixins.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1056,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1055,
-								1055
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "css/sass/partials/_fonts.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "css/sass/partials/_footer.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 465,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								455,
-								455
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "css/sass/partials/_header.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 412,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								244,
-								244
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "css/sass/partials/_framework.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1341,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1088,
-								1088
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 918.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "js/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 578,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								573,
-								573
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -998,6 +371,7 @@
 	{
 		"height": 0.0
 	},
+	"pinned_build_system": "",
 	"project": "tg.sublime-project",
 	"replace":
 	{
@@ -1007,519 +381,252 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"hea",
-				"css\\sass\\partials\\_header.scss"
-			],
-			[
-				"head",
-				"css\\sass\\partials\\_header.scss"
-			],
-			[
-				"colo",
-				"themes\\rvs\\css\\sass\\mixins\\_colour_palette.scss"
-			],
-			[
-				"mixi",
-				"themes\\rvs\\css\\sass\\mixins\\_mixins.scss"
-			],
-			[
-				"framr",
-				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
-			],
-			[
-				"fram",
-				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
-			],
-			[
-				"than",
-				"themes\\rvs\\css\\sass\\partials\\_thanks.scss"
-			],
-			[
-				"header.scs",
-				"themes\\rvs\\css\\sass\\partials\\_header.scss"
-			],
-			[
-				"footer",
-				"themes\\rvs\\css\\sass\\partials\\_footer.scss"
-			],
-			[
-				"foot",
-				"css\\sass\\partials\\_footer.scss"
-			],
-			[
-				"abou",
-				"themes\\rvs\\css\\sass\\partials\\_about.scss"
-			],
-			[
-				"forms.scs",
-				"themes\\rvs\\css\\sass\\partials\\_forms.scss"
-			],
-			[
-				"footer.sc",
-				"themes\\rvs\\css\\sass\\partials\\_footer.scss"
-			],
-			[
-				"main.js",
-				"themes\\rvs\\js\\main.js"
-			],
-			[
 				"frame",
-				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
-			],
-			[
-				"about.scs",
-				"themes\\rvs\\css\\sass\\partials\\_about.scss"
-			],
-			[
-				"slidesh",
-				"themes\\rvs\\css\\sass\\partials\\_slideshow.scss"
-			],
-			[
-				"register",
-				"themes\\rvs\\css\\sass\\partials\\_register.scss"
-			],
-			[
-				"tabs",
-				"themes\\rvs\\css\\sass\\partials\\_tabs.scss"
-			],
-			[
-				"rvs.css",
-				"themes\\rvs\\css\\rvs.css"
-			],
-			[
-				"footer.p",
-				"themes\\rvs\\footer.php"
-			],
-			[
-				"thanks",
-				"themes\\rvs\\css\\sass\\partials\\_thanks.scss"
-			],
-			[
-				"tabs.s",
-				"themes\\rvs\\css\\sass\\partials\\_tabs.scss"
-			],
-			[
-				"footer.sscs",
-				"themes\\rvs\\css\\sass\\partials\\_footer.scss"
-			],
-			[
-				"forms",
-				"themes\\rvs\\css\\sass\\partials\\_forms.scss"
-			],
-			[
-				"about.p",
-				"themes\\rvs\\page-templates\\about.php"
-			],
-			[
-				"header",
-				"themes\\rvs\\header.php"
-			],
-			[
-				"hp",
-				"themes\\rvs\\css\\sass\\partials\\_hp.scss"
-			],
-			[
-				"about",
-				"themes\\rvs\\css\\sass\\partials\\_about.scss"
-			],
-			[
-				"framre",
-				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
-			],
-			[
-				"footer.scs",
-				"themes\\rvs\\css\\sass\\partials\\_footer.scss"
-			],
-			[
-				"thanks.scs",
-				"themes\\rvs\\css\\sass\\partials\\_thanks.scss"
-			],
-			[
-				"register.scs",
-				"themes\\rvs\\css\\sass\\partials\\_register.scss"
-			],
-			[
-				"slideshow",
-				"themes\\rvs\\css\\sass\\partials\\_slideshow.scss"
-			],
-			[
-				"colour",
-				"themes\\rvs\\css\\sass\\mixins\\_colour_palette.scss"
-			],
-			[
-				"mix",
-				"themes\\rvs\\css\\sass\\mixins\\_mixins.scss"
-			],
-			[
-				"header.php",
-				"themes\\rvs\\header.php"
-			],
-			[
-				"hp.scs",
-				"themes\\rvs\\css\\sass\\partials\\_hp.scss"
-			],
-			[
-				"fr",
-				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
-			],
-			[
-				"abou.s",
-				"themes\\rvs\\css\\sass\\partials\\_about.scss"
-			],
-			[
-				"slides",
-				"themes\\rvs\\css\\sass\\partials\\_slideshow.scss"
-			],
-			[
-				"home.p",
-				"themes\\rvs\\page-templates\\home.php"
-			],
-			[
-				"h",
-				"themes\\rvs\\page-templates\\home.php"
-			],
-			[
-				"fra",
-				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
-			],
-			[
-				"rvs.scs",
-				"themes\\rvs\\css\\sass\\rvs.scss"
-			],
-			[
-				"about.s",
-				"themes\\rvs\\css\\sass\\partials\\_about.scss"
-			],
-			[
-				"header.p",
-				"themes\\rvs\\header.php"
-			],
-			[
-				"thanks.cs",
-				"themes\\rvs\\css\\sass\\partials\\_thanks.scss"
-			],
-			[
-				"forms.sc",
-				"themes\\rvs\\css\\sass\\partials\\_forms.scss"
-			],
-			[
-				"slide",
-				"themes\\rvs\\css\\sass\\partials\\_slideshow.scss"
-			],
-			[
-				"thanks.c",
-				"themes\\rvs\\css\\sass\\partials\\_thanks.scss"
-			],
-			[
-				"thanks.htm",
-				"plugins\\eventbritedg\\smarty\\templates\\thanks.html"
-			],
-			[
-				"form",
-				"themes\\rvs\\css\\sass\\partials\\_forms.scss"
-			],
-			[
-				"thanks.ht",
-				"plugins\\eventbritedg\\smarty\\templates\\thanks.html"
-			],
-			[
-				"home.php",
-				"themes\\rvs\\page-templates\\home.php"
-			],
-			[
-				"header.sc",
-				"themes\\rvs\\css\\sass\\partials\\_header.scss"
-			],
-			[
-				"colou",
-				"themes\\rvs\\css\\sass\\mixins\\_colour_palette.scss"
-			],
-			[
-				"regis",
-				"themes\\rvs\\css\\sass\\partials\\_register.scss"
-			],
-			[
-				"header.s",
-				"themes\\rvs\\css\\sass\\partials\\_header.scss"
-			],
-			[
-				"home",
-				"themes\\rvs\\page-templates\\home.php"
-			],
-			[
-				"thank",
-				"plugins\\eventbritedg\\smarty\\templates\\thanks.html"
-			],
-			[
-				"abous",
-				"themes\\rvs\\css\\sass\\partials\\_about.scss"
-			],
-			[
-				"confi",
-				"themes\\rvs\\css\\config.rb"
-			],
-			[
-				"frames",
-				"themes\\rvs\\css\\sass\\partials\\_framework.scss"
-			],
-			[
-				"wp-content/themes/css/sas",
-				"wp-content\\themes\\rvs\\css\\sass\\rvs.scss"
+				"css/sass/partials/_framework.scss"
 			],
 			[
 				"inde",
 				"index.html"
 			],
 			[
-				"main",
-				"js\\main.js"
+				"footer.scs",
+				"wp-content/themes/rvs/css/sass/partials/_footer.scss"
 			],
 			[
-				"sli",
-				"css\\sass\\partials\\_slideshow.scss"
+				"about",
+				"wp-content/themes/rvs/css/sass/partials/_about.scss"
 			],
 			[
-				"tb",
-				"css\\sass\\partials\\_tabs.scss"
+				"thanks.scs",
+				"wp-content/themes/rvs/css/sass/partials/_thanks.scss"
 			],
 			[
-				"ind",
-				"index.html"
+				"hp",
+				"wp-content/themes/rvs/css/sass/partials/_hp.scss"
 			],
 			[
-				"rvs",
-				"email\\rvs_email.html"
+				"hp.scs",
+				"wp-content/themes/rvs/css/sass/partials/_hp.scss"
+			],
+			[
+				"hom",
+				"wp-content/plugins/homepage/homepage.css"
+			],
+			[
+				"register.scs",
+				"wp-content/themes/rvs/css/sass/partials/_register.scss"
+			],
+			[
+				"about.scs",
+				"wp-content/themes/rvs/css/sass/partials/_about.scss"
+			],
+			[
+				"main.js",
+				"wp-content/themes/rvs/js/main.js"
+			],
+			[
+				"slideh",
+				"wp-content/themes/rvs/css/sass/partials/_slideshow.scss"
+			],
+			[
+				"frmae",
+				"wp-content/themes/rvs/css/sass/partials/_framework.scss"
+			],
+			[
+				"forms.scs",
+				"wp-content/themes/rvs/css/sass/partials/_forms.scss"
+			],
+			[
+				"patials/frame",
+				"flats/css/sass/partials/_framework.scss"
+			],
+			[
+				"slic",
+				"css/sass/partials/_slick.scss"
+			],
+			[
+				"member",
+				"css/sass/partials/_members.scss"
+			],
+			[
+				"fram",
+				"css/sass/partials/_framework.scss"
+			],
+			[
+				"main.",
+				"js/main.js"
+			],
+			[
+				"header",
+				"css/sass/partials/_header.scss"
+			],
+			[
+				"gree",
+				"css/sass/greenleaves.scss"
+			],
+			[
+				"hea",
+				"css/sass/partials/_header.scss"
+			],
+			[
+				"footer",
+				"css/sass/partials/_footer.scss"
+			],
+			[
+				"mai",
+				"js/main.js"
+			],
+			[
+				"grid",
+				"css/sass/partials/_grid.scss"
+			],
+			[
+				"foot",
+				"css/sass/partials/_footer.scss"
+			],
+			[
+				"con",
+				"config.rb"
 			],
 			[
 				"in",
 				"index.html"
 			],
 			[
-				"rvs_em",
-				"email\\rvs_email.html"
+				"main",
+				"alice_hart/js/main.js"
 			],
 			[
-				"rvs.s",
-				"css\\sass\\rvs.scss"
+				"ins",
+				"alice_hart/css/sass/partials/_insta.scss"
 			],
 			[
-				"frm",
-				"css\\sass\\partials\\_framework.scss"
+				"alice.scs",
+				"alice_hart/css/sass/alice.scss"
 			],
 			[
-				"events.scs",
-				"flats\\css\\sass\\partials\\_events.scss"
+				"head",
+				"alice_hart/css/sass/partials/_header.scss"
 			],
 			[
-				"block",
-				"flats\\css\\sass\\partials\\_block_grid.scss"
-			],
-			[
-				"blocks",
-				"flats\\sections\\blocks.php"
-			],
-			[
-				"faq",
-				"flats\\css\\sass\\partials\\_faq.scss"
-			],
-			[
-				"faqs",
-				"flats\\sections\\faq_content.php"
-			],
-			[
-				"esn.s",
-				"flats\\css\\sass\\esn.scss"
-			],
-			[
-				"esn.scs",
-				"flats\\css\\sass\\esn.scss"
-			],
-			[
-				"conta",
-				"flats\\css\\sass\\partials\\_content_page.scss"
-			],
-			[
-				"slideshw",
-				"flats\\css\\sass\\partials\\_slideshow.scss"
+				"work",
+				"builtbychris/css/sass/partials/_work.scss"
 			],
 			[
 				"index",
-				"flats\\index.php"
+				"builtbychris/index.html"
 			],
 			[
-				"car",
-				"flats\\sections\\carousel.php"
+				"mixi",
+				"sass/mixins/_mixins.scss"
 			],
 			[
-				"footer.",
-				"flats\\sections\\footer.php"
+				"conta",
+				"v3/css/sass/partials/_contact.scss"
 			],
 			[
-				"slideh",
-				"flats\\css\\sass\\partials\\_slideshow.scss"
+				"work_",
+				"v3/work_template.html"
 			],
 			[
-				"bloc",
-				"flats\\css\\sass\\partials\\_block_grid.scss"
+				"case",
+				"v3/css/sass/partials/_case_study.scss"
+			],
+			[
+				"index.html",
+				"v3/index.html"
+			],
+			[
+				"header.s",
+				"v3/css/sass/partials/_header.scss"
+			],
+			[
+				"work.",
+				"v3/css/sass/partials/_work.scss"
+			],
+			[
+				"cont",
+				"v3/css/sass/partials/_contact.scss"
+			],
+			[
+				"contact",
+				"v3/css/sass/partials/_contact.scss"
+			],
+			[
+				"index.",
+				"v3/index.html"
 			],
 			[
 				"header.",
-				"flats\\sections\\header.php"
+				"v3/css/sass/partials/_header.scss"
+			],
+			[
+				"mix",
+				"v3/css/sass/mixins/_mixins.scss"
+			],
+			[
+				"colour",
+				"v3/css/sass/mixins/_colour_palette.scss"
+			],
+			[
+				"wor",
+				"v3/css/sass/partials/_work.scss"
+			],
+			[
+				"abou",
+				"v3/css/sass/partials/_about.scss"
 			],
 			[
 				"color",
-				"flats\\css\\sass\\mixins\\_colour_palette.scss"
+				"v3/css/.sass-cache/d15ddce74ac5380efa66a04f107da591c867ddc5/_colour_palette.scssc"
 			],
 			[
-				"for",
-				"flats\\css\\sass\\partials\\_forms.scss"
+				"index.php",
+				"v3/index.php"
 			],
 			[
-				"geneti",
-				"flats\\sections\\generic_content.php"
+				"templ",
+				"v3/work_template.html"
 			],
 			[
-				"bread",
-				"flats\\css\\sass\\partials\\_breadcrumb.scss"
+				"french",
+				"v3/french-connection.html"
 			],
 			[
-				"hero",
-				"flats\\css\\sass\\partials\\_hero_banner.scss"
+				"frec",
+				"v3/french-connection.html"
 			],
 			[
-				"her",
-				"flats\\css\\sass\\partials\\_hero_banner.scss"
+				"work.s",
+				"v3/css/sass/partials/_work.scss"
 			],
 			[
-				"heor",
-				"flats\\sections\\hero_banner.php"
+				"about.s",
+				"v3/css/sass/partials/_about.scss"
 			],
 			[
-				"grid",
-				"flats\\css\\sass\\partials\\_block_grid.scss"
+				"footer.s",
+				"v3/css/sass/partials/_footer.scss"
 			],
 			[
-				"blocks.p",
-				"flats\\sections\\blocks.php"
+				"frae",
+				"css/sass/partials/_framework.scss"
 			],
 			[
-				"hero_",
-				"flats\\sections\\hero_banner.php"
+				"font.scs",
+				"css/sass/partials/_font.scss"
 			],
 			[
-				"social",
-				"flats\\css\\sass\\partials\\_social_feed.scss"
+				"master",
+				"css/master.css"
 			],
 			[
-				"framewor",
-				"flats\\css\\sass\\partials\\_framework.scss"
-			],
-			[
-				"footre",
-				"flats\\sections\\footer.php"
-			],
-			[
-				"norm",
-				"flats\\css\\sass\\partials\\_normalize.scss"
-			],
-			[
-				"contact.sc",
-				"wp-content\\themes\\ga\\css\\sass\\partials\\_contact.scss"
-			],
-			[
-				"master.",
-				"C:\\xampp\\htdocs\\egan\\wp-content\\themes\\ga\\css\\sass\\master.scss"
-			],
-			[
-				"hp_",
-				"wp-content\\themes\\h2only\\page-templates\\parts\\hp_header.php"
-			],
-			[
-				"hp_head",
-				"wp-content\\themes\\h2only\\page-templates\\parts\\hp_header.php"
-			],
-			[
-				"top_gr",
-				"wp-content\\themes\\h2only\\css\\sass\\partials\\_content_grid.scss"
-			],
-			[
-				"thank-",
-				"wp-content\\themes\\h2only\\tmpl\\thanks-page.php"
-			],
-			[
-				"hp_header",
-				"wp-content\\themes\\h2only\\page-templates\\parts\\hp_header.php"
-			],
-			[
-				"thank.sc",
-				"wp-content\\themes\\h2only\\css\\sass\\partials\\_thank_you.scss"
-			],
-			[
-				"forms.s",
-				"wp-content\\themes\\h2only\\css\\sass\\partials\\_forms.scss"
-			],
-			[
-				"h2on",
-				"wp-content\\themes\\h2only\\css\\sass\\h2only.scss"
-			],
-			[
-				"slider",
-				"wp-content\\themes\\h2only\\css\\sass\\partials\\_cost_slider.scss"
-			],
-			[
-				"top_grid",
-				"back_up\\wp-content\\themes\\h2only_2015\\css\\sass\\partials\\_top_grid.scss"
-			],
-			[
-				"top",
-				"back_up\\wp-content\\themes\\h2only_2015\\css\\sass\\partials\\_top_grid.scss"
-			],
-			[
-				"sign_up_header.scs",
-				"wp-content\\themes\\h2only\\css\\sass\\partials\\_sign_up_header.scss"
-			],
-			[
-				"intro",
-				"wp-content\\themes\\h2only\\css\\sass\\partials\\_intro_banner.scss"
-			],
-			[
-				"header.scss",
-				"wp-content\\themes\\h2only\\css\\sass\\partials\\_header.scss"
-			],
-			[
-				"h2only.css",
-				"wp-content\\themes\\h2only\\css\\h2only.css"
-			],
-			[
-				"slider.sc",
-				"wp-content\\themes\\h2only\\css\\sass\\partials\\_cost_slider.scss"
-			],
-			[
-				"hp_hea",
-				"wp-content\\themes\\h2only\\page-templates\\parts\\hp_header.php"
-			],
-			[
-				"create",
-				"wp-content\\themes\\h2only\\css\\sass\\partials\\_create.scss"
-			],
-			[
-				"register.sc",
-				"wp-content\\themes\\h2only\\css\\sass\\partials\\_register.scss"
-			],
-			[
-				"_than",
-				"wp-content\\themes\\h2only\\css\\sass\\partials\\_thank_you.scss"
-			],
-			[
-				"thanks.sc",
-				"wp-content\\themes\\h2only\\css\\.sass-cache\\1d3b875729466a758788e85fb7d99a28684faba2\\_thank_you.scssc"
-			],
-			[
-				"create.scs",
-				"wp-content\\themes\\h2only\\css\\sass\\partials\\_create.scss"
+				"i",
+				"index.html"
 			]
 		],
 		"width": 0.0
@@ -1527,211 +634,24 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "buil",
 		"selected_items":
 		[
 			[
-				"doe",
-				"C:\\xampp\\htdocs\\sublime\\dofe.sublime-project"
-			],
-			[
-				"dore",
-				"C:\\xampp\\htdocs\\sublime\\dofe.sublime-project"
-			],
-			[
-				"dioe",
-				"C:\\xampp\\htdocs\\sublime\\dofe.sublime-project"
-			],
-			[
-				"r",
-				"C:\\xampp\\htdocs\\rvs\\wp-content\\themes\\rvs\\css\\sass\\partials\\rvs_wp.sublime-project"
+				"buil",
+				"~/Desktop/builtbychris/builtbychris.sublime-workspace"
 			],
 			[
 				"esn",
-				"C:\\xampp\\htdocs\\sublime\\esn.sublime-project"
-			],
-			[
-				"pres",
-				"C:\\xampp\\htdocs\\sublime\\presentations.sublime-project"
-			],
-			[
-				"presn",
-				"C:\\xampp\\htdocs\\sublime\\presentations.sublime-project"
-			],
-			[
-				"prentios",
-				"C:\\xampp\\htdocs\\sublime\\prentis.sublime-project"
-			],
-			[
-				"present",
-				"C:\\xampp\\htdocs\\sublime\\presentations.sublime-project"
-			],
-			[
-				"pretn",
-				"C:\\xampp\\htdocs\\sublime\\prentis.sublime-project"
-			],
-			[
-				"green",
-				"C:\\xampp\\htdocs\\sublime\\greenleaves.sublime-project"
-			],
-			[
-				"prentis",
-				"C:\\xampp\\htdocs\\sublime\\prentis.sublime-project"
+				"/Applications/MAMP/htdocs/sublime/esn.sublime-project"
 			],
 			[
 				"rvs",
-				"C:\\xampp\\htdocs\\sublime\\rvs.sublime-project"
+				"/Applications/MAMP/htdocs/sublime/rvs.sublime-project"
 			],
 			[
-				"three",
-				"C:\\xampp\\htdocs\\sublime\\three_good.sublime-project"
-			],
-			[
-				"lbe",
-				"C:\\xampp\\htdocs\\sublime\\bv.sublime-project"
-			],
-			[
-				"thre",
-				"C:\\xampp\\htdocs\\sublime\\three_good.sublime-project"
-			],
-			[
-				"EG",
-				"C:\\xampp\\htdocs\\sublime\\egan.sublime-project"
-			],
-			[
-				"egan",
-				"C:\\xampp\\htdocs\\sublime\\egan.sublime-project"
-			],
-			[
-				"good",
-				"C:\\xampp\\htdocs\\sublime\\good_agency.sublime-project"
-			],
-			[
-				"ega",
-				"C:\\xampp\\htdocs\\sublime\\egan.sublime-project"
-			],
-			[
-				"guide",
-				"C:\\xampp\\htdocs\\sublime\\guide_dogs.sublime-project"
-			],
-			[
-				"h2",
-				"C:\\xampp\\htdocs\\sublime\\h2only.sublime-project"
-			],
-			[
-				"anim",
-				"C:\\Users\\cparsons\\Desktop\\projects\\sublime\\animations.sublime-project"
-			],
-			[
-				"goo",
-				"C:\\xampp\\htdocs\\sublime\\good_agency.sublime-project"
-			],
-			[
-				"atl",
-				"C:\\xampp\\htdocs\\sublime\\atl.sublime-project"
-			],
-			[
-				"alt",
-				"C:\\xampp\\htdocs\\sublime\\atl.sublime-project"
-			],
-			[
-				"mercy",
-				"C:\\xampp\\htdocs\\sublime\\mercy_ships.sublime-project"
-			],
-			[
-				"built",
-				"C:\\Users\\cparsons\\Desktop\\projects\\sublime\\builtbychris.sublime-project"
-			],
-			[
-				"#",
-				"C:\\xampp\\htdocs\\sublime\\#pay.sublime-project"
-			],
-			[
-				"rspca",
-				"C:\\xampp\\htdocs\\sublime\\rspca_walkies.sublime-project"
-			],
-			[
-				"por",
-				"C:\\Users\\cparsons\\Desktop\\projects\\sublime\\portfolio.sublime-project"
-			],
-			[
-				"meryc",
-				"C:\\xampp\\htdocs\\sublime\\mercy_ships.sublime-project"
-			],
-			[
-				"buil",
-				"C:\\Users\\cparsons\\Desktop\\projects\\sublime\\builtbychris.sublime-project"
-			],
-			[
-				"rspca ",
-				"C:\\xampp\\htdocs\\sublime\\rspca_walkies.sublime-project"
-			],
-			[
-				"good agenc",
-				"C:\\xampp\\htdocs\\sublime\\good_agency.sublime-project"
-			],
-			[
-				"xmas",
-				"C:\\xampp\\htdocs\\sublime\\good_xmas.sublime-project"
-			],
-			[
-				"good a",
-				"C:\\xampp\\htdocs\\sublime\\good_agency.sublime-project"
-			],
-			[
-				"good_",
-				"C:\\xampp\\htdocs\\sublime\\good_agency.sublime-project"
-			],
-			[
-				"x",
-				"C:\\xampp\\htdocs\\sublime\\good_xmas.sublime-project"
-			],
-			[
-				"ww",
-				"C:\\xampp\\htdocs\\sublime\\wwf.sublime-project"
-			],
-			[
-				"wwf",
-				"C:\\xampp\\htdocs\\sublime\\wwf.sublime-project"
-			],
-			[
-				"open",
-				"C:\\xampp\\htdocs\\sublime\\open_age.sublime-project"
-			],
-			[
-				"nspcc",
-				"C:\\xampp\\htdocs\\sublime\\NSPCC.sublime-project"
-			],
-			[
-				"undierun",
-				"C:\\xampp\\htdocs\\sublime\\undierun.sublime-project"
-			],
-			[
-				"nsp",
-				"C:\\xampp\\htdocs\\sublime\\NSPCC.sublime-project"
-			],
-			[
-				"undie",
-				"C:\\xampp\\htdocs\\sublime\\undierun.sublime-project"
-			],
-			[
-				"psi",
-				"C:\\Users\\cparsons\\Desktop\\psi\\psi.sublime-project"
-			],
-			[
-				"undieru",
-				"C:\\xampp\\htdocs\\sublime\\undierun.sublime-project"
-			],
-			[
-				"un",
-				"C:\\xampp\\htdocs\\sublime\\undierun.sublime-project"
-			],
-			[
-				"i",
-				"C:\\xampp\\htdocs\\sublime\\undierun.sublime-project"
-			],
-			[
-				"ope",
-				"C:\\xampp\\htdocs\\sublime\\open_age.sublime-project"
+				"p",
+				"~/Desktop/portfolio/portfolio.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -1739,11 +659,13 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},

@@ -21,8 +21,12 @@
 
 }
 .site_footer nav ul li a {
-	color: $light_grey;
+	color: $dark_grey;
 	display: block;
+	text-decoration: underline;
+	&:hover {
+		color: $black;
+	}
 }
 
 
